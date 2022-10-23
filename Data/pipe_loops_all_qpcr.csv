@@ -1,0 +1,822 @@
+"","Phase","adj_loc","sample_date","influent_composition","sample_type","location_code_orig","dilution_factor_qpcr","cycle_time_qpcr","well_copy_number_qpcr","GC_per_cm2_avg_qpcr_BLOQ","GC_per_mL_avg_qpcr_BLOQ","assay_qpcr","above_LoQ_qpcr","non_det_qpcr"
+"2","Phase 1","advanced feedwater",2018-01-05,"100% advanced","bulkwater","advanced_feed",1.25,"19.68725014",1004282.125,NA,1210.26171579743,"S16",1,0
+"5","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_328",2,"17.93664551",3680623,NA,2113.69722086787,"S16",1,0
+"6","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_328",2,"16.88383865",7029988.5,NA,16119.5920177384,"S16",1,0
+"8","Phase 1","conventional feedwater",2018-01-05,"100% conventional","bulkwater","conventional_feed",1,"21.79175",579246.1,NA,332.577210323998,"S16",1,0
+"9","Phase 2","conventional feedwater",2018-03-22,"100% conventional","bulkwater","conventional_feed",5,"22.65622",474043.5,NA,3001.9496969697,"S16",1,0
+"10","Phase 2","full-scale
+distribution system
+",2018-02-16,"not applicable","bulkwater","site_286",2,"16.10227585",11365349,NA,7501.3001310616,"S16",1,0
+"11","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater","advanced_feed",100,"19.89323",41419128,NA,4563910.64327485,"S16",1,0
+"12","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_286",2,"21.78669357",402612.625,NA,694.900330733801,"S16",1,0
+"13","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_286",5,"22.93531799",206971.5938,NA,523.450510400682,"S16",1,0
+"16","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_328",10,"19.63288",2011102,NA,13038.4554973822,"S16",1,0
+"18","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater","Loop_5",2,"18.66972733",2449454,NA,13541.8097222222,"S16",1,0
+"19","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_282",5,"18.59397507",2006453,NA,9738.14187616387,"S16",1,0
+"20","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_282",20,"19.32089233",1266421.25,NA,23303.7425968109,"S16",1,0
+"26","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater","Loop_5",3,"16.91858292",5794863.5,NA,46619.7541666667,"S16",1,0
+"27","Phase 2","conventional control loop",2018-01-15,"100% conventional","bulkwater","Loop_5",2,"20.63874",27492786,NA,178278.833333333,"S16",1,0
+"28","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater","Loop_5",2,"19.45022583",1166865.125,NA,8287.88644366197,"S16",1,0
+"29","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater","Loop_5",2,"18.25369072",2488760.5,NA,17203.3707664884,"S16",1,0
+"33","Phase 2","advanced blend loops",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"23.46763",220411.1,NA,1407.67597402597,"S16",1,0
+"34","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_4",1.5,"18.96761322",1583816.75,NA,6788.9525862069,"S16",1,0
+"37","Phase 1","advanced blend loops",2017-12-18,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"16.97070885",5606764,NA,35148.4675324675,"S16",1,0
+"38","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_4",10,"18.82253456",2241946.75,NA,93409.125,"S16",1,0
+"40","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_2",2,"23.27844",6442058,NA,18339.8846153846,"S16",1,0
+"42","Phase 2","advanced blend loops",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_3",2,"25.79299",57673.6,NA,389.320071428571,"S16",1,0
+"43","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_3",10,"16.08302116",9834755,NA,229264.565217391,"S16",1,0
+"46","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_2",10,"16.84835052",7035587.5,NA,143327.288888889,"S16",1,0
+"47","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_2",5,"20.37728",1310000,NA,19913.4259259259,"S16",1,0
+"48","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_2",1.25,"17.79649353",3324145,NA,8801.62960526316,"S16",1,0
+"49","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_2",10,"18.24404716",2504000.25,NA,60615.318287037,"S16",1,0
+"51","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"18.92430115",1627843.625,NA,3735.05070754717,"S16",1,0
+"52","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_1",10,"14.88533211",20991488,NA,397374.02020202,"S16",1,0
+"53","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_1",5,"17.73897",5993194,NA,54886.0186915888,"S16",1,0
+"54","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_1",5,"24.01881",215463.2,NA,2557.98726851852,"S16",1,0
+"55","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_1",1,"23.21253",192581.8,NA,301.661191626409,"S16",1,0
+"56","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_1",10,"16.70093727",6650899,NA,145908.215909091,"S16",1,0
+"60","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_1",2,"17.73874092",3447925,NA,17691.25125,"S16",1,0
+"61","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_1",1,"22.83252",247517.3,NA,603.421078431372,"S16",1,0
+"62","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_1",2,"20.09636",1539501,NA,10564.7462184874,"S16",1,0
+"63","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater","advanced_feed",20,"18.58824",4990925,NA,109466.218487395,"S16",1,0
+"64","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"19.85407",2399124,NA,5253.1369047619,"S16",1,0
+"65","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"26.43959",22860.31,NA,72.570625,"S16",1,0
+"67","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_3",3,"21.61386108",296602.0313,NA,4137.55754278846,"S16",1,0
+"68","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"22.16995",465763.3,NA,1237.06141522029,"S16",1,0
+"69","Phase 1","conventional control loop",2017-12-18,"100% conventional","bulkwater","Loop_5",3,"24.95528",125319.6,NA,1147.04166666667,"S16",1,0
+"70","Phase 1","advanced blend loops",2018-01-01,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"20.17727",1469339,NA,2720.86371681416,"S16",1,0
+"71","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_2",2,"20.63834",783061.5625,NA,4725.4186746988,"S16",1,0
+"72","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_4",1.5,"22.26386",594873.4,NA,2832.73047619048,"S16",1,0
+"73","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"24.55970001",80768.24219,NA,224.739605027778,"S16",1,0
+"74","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater","advanced_feed",2,"19.24917984",1325238.5,NA,8189.94362745098,"S16",1,0
+"75","Phase 2","advanced feedwater",2018-02-15,"100% advanced","bulkwater","advanced_feed",2,"14.05823",50037180,NA,151392.807278743,"S16",1,0
+"76","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater","advanced_feed",5,"14.45416164",28160628,NA,46841.4117647059,"S16",1,0
+"78","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"23.11842346",170514.6719,NA,512.14159,"S16",1,0
+"79","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater","Loop_5",1,"18.7679882",2849868.25,NA,6736.11538461538,"S16",1,0
+"81","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater","conventional_feed",2,"17.87239075",5088728.5,NA,2675.52980847046,"S16",1,0
+"82","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"18.92601204",2572756.25,NA,5551.815625,"S16",1,0
+"83","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_282",2,"22.6791687",226595.8594,NA,97.4088504577823,"S16",1,0
+"86","Phase 1","conventional feedwater",2017-12-07,"100% conventional","bulkwater","conventional_feed",2,"15.78586292",13019859,NA,44828.9489795918,"S16",1,0
+"87","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater","conventional_feed",1.5,"17.57912064",4585197,NA,5117.42261029412,"S16",1,0
+"88","Phase 2","conventional feedwater",2018-01-12,"100% conventional","bulkwater","conventional_feed",5,"22.27692",590396.7,NA,2970.00298804781,"S16",1,0
+"89","Phase 2","conventional feedwater",2018-03-01,"100% conventional","bulkwater","conventional_feed",2,"23.06977",277239.9,NA,1075.34647887324,"S16",1,0
+"90","not applicable","RO permeate",2017-09-21,"not applicable","bulkwater","RO_2stage",20,"27.0097",44801.78,NA,14.3590458135861,"S16",1,0
+"91","not applicable","RO permeate",2017-09-26,"not applicable","bulkwater","RO_2stage",20,"26.99928",45103.79,NA,9.11832399282686,"S16",1,0
+"92","not applicable","RO permeate",2017-09-26,"not applicable","bulkwater","RO_3stage",1,"23.04679",577568.3,NA,5.74592771865075,"S16",1,0
+"93","not applicable","RO permeate",2017-11-14,"not applicable","bulkwater","RO_2stage",20,"24.97424",166562.9,NA,37.4722938093549,"S16",1,0
+"94","not applicable","RO permeate",2017-11-14,"not applicable","bulkwater","RO_3stage",1,"23.55041",417349.1,NA,6.96911674949865,"S16",1,0
+"95","not applicable","RO permeate",2017-12-14,"not applicable","bulkwater","RO_2stage",3,"21.92744",449970.1,NA,14.4217000283527,"S16",1,0
+"96","not applicable","RO permeate",2017-12-14,"not applicable","bulkwater","RO_3stage",1,"23.29636",182210.3,NA,3.94690247933884,"S16",1,0
+"98","not applicable","RO permeate",2017-09-14,"not applicable","bulkwater","RO_3stage",1,"25.41125",45083.02,NA,13.5793553611921,"S16",1,0
+"99","not applicable","RO permeate",2017-10-10,"not applicable","bulkwater","RO_2stage",5,"21.09472",779852.1,NA,297.736212675198,"S16",1,0
+"100","not applicable","RO permeate",2017-10-10,"not applicable","bulkwater","RO_3stage",1,"19.79323",1841977,NA,120.965542521994,"S16",1,0
+"101","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater","advanced_feed",1.25,"15.68607712",12644308,NA,4264.77304964539,"S16",1,0
+"103","Phase 1","advanced blend loops",2018-01-01,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"27.224",736329.3,NA,3408.82056074766,"S16",1,0
+"104","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater","advanced_feed",1.5,"16.64646721",6884236.5,NA,NA,"S16",1,0
+"105","Phase 1","advanced feedwater",2018-01-05,"100% advanced","bulkwater","advanced_feed",1.25,"39.44818115",1.618478417,NA,0.018896447467876,"acanthamoeba",0,0
+"108","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_328",2,"Undetermined",NA,NA,0.00650089387290752,"acanthamoeba",0,1
+"109","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_328",2,"Undetermined",NA,NA,0.0221729490022173,"acanthamoeba",0,1
+"111","Phase 2","full-scale
+distribution system
+",2018-02-16,"not applicable","bulkwater","site_286",2,"39.63715744",1.200447679,NA,0.00655307994757536,"acanthamoeba",0,0
+"112","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater","advanced_feed",20,"34.86032486",25.97908211,NA,0.574479844912281,"acanthamoeba",1,0
+"113","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_286",1,"Undetermined",NA,NA,0.0096585929895795,"acanthamoeba",0,1
+"114","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_286",2,"Undetermined",NA,NA,0.00972651608460931,"acanthamoeba",0,1
+"118","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater","Loop_5",1,"Undetermined",NA,NA,0.0277777777777778,"acanthamoeba",0,1
+"119","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_282",1,"Undetermined",NA,NA,0.00931098696461825,"acanthamoeba",0,1
+"120","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_282",1,"Undetermined",NA,NA,0.00911161731207289,"acanthamoeba",0,1
+"123","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater","Loop_5",2,"Undetermined",NA,NA,0.0555555555555556,"acanthamoeba",0,1
+"124","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater","Loop_5",1,"Undetermined",NA,NA,0.0223214285714286,"acanthamoeba",0,1
+"125","Phase 2","conventional control loop",2018-01-15,"100% conventional","bulkwater","Loop_5",1.5,"Undetermined",NA,NA,0.0520833333333333,"acanthamoeba",0,1
+"126","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater","Loop_5",1.25,"Undetermined",NA,NA,0.0440140845070422,"acanthamoeba",0,1
+"127","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater","Loop_5",1.25,"Undetermined",NA,NA,0.0445632798573975,"acanthamoeba",0,1
+"129","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"36.7562561",8.506286621,NA,0.0292451135057471,"acanthamoeba",1,0
+"131","Phase 1","advanced blend loops",2017-12-18,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"Undetermined",NA,NA,0.0324675324675325,"acanthamoeba",0,1
+"132","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_4",3,"36.48295212",14.65763664,NA,0.125,"acanthamoeba",0,0
+"133","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"36.93700409",7.609453678,NA,0.0274725274725275,"acanthamoeba",0,0
+"135","Phase 2","advanced blend loops",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_3",1.5,"38.83635",5.670771,NA,0.0535714285714286,"acanthamoeba",0,0
+"136","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"33.33568954",70.05381775,NA,0.119550373236715,"acanthamoeba",1,0
+"139","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0222222222222222,"acanthamoeba",0,1
+"140","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_2",2,"Undetermined",NA,NA,0.0617283950617284,"acanthamoeba",0,1
+"141","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0210526315789474,"acanthamoeba",0,1
+"142","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_2",1.25,"32.68853378",104.3942413,NA,0.264250856857639,"acanthamoeba",1,0
+"144","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_1",1,"36.90517044",7.76024437,NA,0.0202020202020202,"acanthamoeba",0,0
+"145","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_1",1.5,"38.51522",6.848494,NA,0.0383267361111111,"acanthamoeba",1,0
+"146","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_1",1,"34.30700684",38.49536514,NA,0.141265661068182,"acanthamoeba",1,0
+"148","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_1",1.25,"Undetermined",NA,NA,0.03125,"acanthamoeba",0,1
+"149","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater","advanced_feed",4,"31.70922",373.6665,NA,1.32164243697479,"acanthamoeba",1,0
+"150","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"35.99244",30.15839,NA,0.076979375,"acanthamoeba",1,0
+"151","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_3",3,"Undetermined",NA,NA,0.144230769230769,"acanthamoeba",0,1
+"152","Phase 1","conventional control loop",2017-12-18,"100% conventional","bulkwater","Loop_5",2,"38.35147",7.54,NA,0.0617283950617284,"acanthamoeba",0,0
+"153","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"38.89668655",3.238972902,NA,0.0301204819277108,"acanthamoeba",0,0
+"154","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_4",1.5,"34.94905",55.67747,NA,0.218416666666667,"acanthamoeba",1,0
+"155","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater","advanced_feed",2,"36.70732498",8.766757011,NA,0.065359477124183,"acanthamoeba",0,0
+"156","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater","advanced_feed",5,"Undetermined",NA,NA,0.0168067226890756,"acanthamoeba",0,1
+"158","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_4",3,"37.36809158",14.19453716,NA,0.127637377897059,"acanthamoeba",1,0
+"159","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater","Loop_5",3,"Undetermined",NA,NA,0.0641025641025641,"acanthamoeba",0,1
+"160","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater","conventional_feed",3,"37.99180222",9.76906395,NA,0.00809279741030483,"acanthamoeba",0,0
+"161","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_3",3,"Undetermined",NA,NA,0.075,"acanthamoeba",0,1
+"162","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_282",3,"37.32920074",14.52912045,NA,0.0153660740264496,"acanthamoeba",1,0
+"164","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater","conventional_feed",1.5,"Undetermined",NA,NA,0.0110294117647059,"acanthamoeba",0,1
+"165","Phase 2","conventional feedwater",2018-01-12,"100% conventional","bulkwater","conventional_feed",2,"35.57252",38.59856,NA,0.0945805976095618,"acanthamoeba",1,0
+"166","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater","advanced_feed",1,"30.40119171",427.5649414,NA,0.070575301787234,"acanthamoeba",1,0
+"167","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater","advanced_feed",1.5,"31.93652153",165.9554596,NA,NA,"acanthamoeba",1,0
+"205","Phase 1","advanced feedwater",2018-01-05,"100% advanced","bulkwater","advanced_feed",10,"Undetermined",NA,NA,0.151171579743008,"blatem",0,1
+"208","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_328",2,"Undetermined",NA,NA,0.00650089387290752,"blatem",0,1
+"209","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_328",2,"Undetermined",NA,NA,0.0221729490022173,"blatem",0,1
+"211","Phase 1","conventional feedwater",2018-01-05,"100% conventional","bulkwater","conventional_feed",1,"Undetermined",NA,NA,0.00549148819330038,"blatem",0,1
+"212","Phase 2","conventional feedwater",2018-03-22,"100% conventional","bulkwater","conventional_feed",2,"Undetermined",NA,NA,0.0242424242424242,"blatem",0,1
+"213","Phase 2","full-scale
+distribution system
+",2018-02-16,"not applicable","bulkwater","site_286",2,"Undetermined",NA,NA,0.00655307994757536,"blatem",0,1
+"214","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater","advanced_feed",5,"Undetermined",NA,NA,0.0584795321637427,"blatem",0,1
+"215","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_286",1,"Undetermined",NA,NA,0.0096585929895795,"blatem",0,1
+"216","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_286",2,"37.84273148",11.98018551,NA,0.0116525467059618,"blatem",1,0
+"219","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_328",2,"Undetermined",NA,NA,0.0130890052356021,"blatem",0,1
+"220","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater","Loop_5",1,"35.44508362",49.35417175,NA,0.201118554,"blatem",1,0
+"221","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_282",1,"Undetermined",NA,NA,0.00931098696461825,"blatem",0,1
+"222","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_282",5,"Undetermined",NA,NA,0.0455580865603645,"blatem",0,1
+"227","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater","Loop_5",2,"34.14367294",153.6089478,NA,0.765440029444444,"blatem",1,0
+"228","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater","Loop_5",1,"39.28111267",5.123898983,NA,0.0223214285714286,"blatem",0,0
+"229","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater","Loop_5",1.25,"Undetermined",NA,NA,0.0440140845070422,"blatem",0,1
+"230","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater","Loop_5",2,"Undetermined",NA,NA,0.071301247771836,"blatem",0,1
+"234","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_4",1.25,"33.83750534",183.7715149,NA,0.669407734913793,"blatem",1,0
+"237","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0274725274725275,"blatem",0,1
+"238","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_3",2,"Undetermined",NA,NA,0.0483091787439613,"blatem",0,1
+"240","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0210526315789474,"blatem",0,1
+"241","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_2",4,"Undetermined",NA,NA,0.0925925925925926,"blatem",0,1
+"243","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0235849056603774,"blatem",0,1
+"245","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_1",1,"40.88800812",2.959789515,NA,0.0202020202020202,"blatem",0,0
+"246","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_1",5,"Undetermined",NA,NA,0.113636363636364,"blatem",0,1
+"250","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_1",10,"Undetermined",NA,NA,0.25,"blatem",0,1
+"251","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater","advanced_feed",4,"38.35985",7.832397,NA,0.0420168067226891,"blatem",0,0
+"252","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"Undetermined",NA,NA,0.0297619047619048,"blatem",0,1
+"254","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"Undetermined",NA,NA,0.0480769230769231,"blatem",0,1
+"255","Phase 1","advanced blend loops",2018-01-01,"90% advanced
+10% conventional","bulkwater","Loop_3",1.5,"Undetermined",NA,NA,0.0265486725663717,"blatem",0,1
+"256","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"39.387043",4.813217163,NA,0.0301204819277108,"blatem",0,0
+"257","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"37.294487",16.55987549,NA,0.0459996541388889,"blatem",1,0
+"258","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater","advanced_feed",1,"Undetermined",NA,NA,0.0326797385620915,"blatem",0,1
+"259","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater","advanced_feed",5,"39.26815033",5.163267612,NA,0.0168067226890756,"blatem",0,0
+"261","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"Undetermined",NA,NA,0.0294117647058824,"blatem",0,1
+"262","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater","Loop_5",1,"Undetermined",NA,NA,0.0213675213675214,"blatem",0,1
+"264","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater","conventional_feed",3,"Undetermined",NA,NA,0.00809279741030483,"blatem",0,1
+"265","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"Undetermined",NA,NA,0.025,"blatem",0,1
+"266","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_282",3,"Undetermined",NA,NA,0.00610376398779247,"blatem",0,1
+"269","Phase 1","conventional feedwater",2017-12-07,"100% conventional","bulkwater","conventional_feed",1.5,"Undetermined",NA,NA,0.0255102040816326,"blatem",0,1
+"270","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater","conventional_feed",5,"Undetermined",NA,NA,0.0367647058823529,"blatem",0,1
+"271","Phase 2","conventional feedwater",2018-03-01,"100% conventional","bulkwater","conventional_feed",1.5,"Undetermined",NA,NA,0.0352112676056338,"blatem",0,1
+"272","not applicable","RO permeate",2017-09-21,"not applicable","bulkwater","RO_2stage",1,"Undetermined",NA,NA,0.000157977883096366,"blatem",0,1
+"273","not applicable","RO permeate",2017-09-26,"not applicable","bulkwater","RO_2stage",1.5,"Undetermined",NA,NA,0.000175353688389482,"blatem",0,1
+"274","not applicable","RO permeate",2017-09-26,"not applicable","bulkwater","RO_3stage",1,"Undetermined",NA,NA,0.000102793854736659,"blatem",0,1
+"275","not applicable","RO permeate",2017-11-14,"not applicable","bulkwater","RO_2stage",2,"Undetermined",NA,NA,0.000315246088978209,"blatem",0,1
+"276","not applicable","RO permeate",2017-11-14,"not applicable","bulkwater","RO_3stage",1,"Undetermined",NA,NA,0.00015853010883092,"blatem",0,1
+"277","not applicable","RO permeate",2017-12-14,"not applicable","bulkwater","RO_2stage",10,"Undetermined",NA,NA,0.00113410830734335,"blatem",0,1
+"278","not applicable","RO permeate",2017-12-14,"not applicable","bulkwater","RO_3stage",1,"Undetermined",NA,NA,0.000220385674931129,"blatem",0,1
+"279","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater","advanced_feed",5,"40.12043762",4.639403343,NA,0.0141843971631206,"blatem",0,0
+"280","Phase 1","advanced blend loops",2017-12-18,"90% advanced
+10% conventional","bulkwater","Loop_3",5,"37.51723",13.16475,NA,0.247321705426357,"blatem",1,0
+"281","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater","advanced_feed",10,"Undetermined",NA,NA,NA,"blatem",0,1
+"283","Phase 1","advanced feedwater",2018-01-05,"100% advanced","bulkwater","advanced_feed",1.25,"Undetermined",NA,NA,0.018896447467876,"legionella",0,1
+"285","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_328",3,"Undetermined",NA,NA,0.00975134080936129,"legionella",0,1
+"287","Phase 2","conventional feedwater",2018-03-22,"100% conventional","bulkwater","conventional_feed",2,"Undetermined",NA,NA,0.0242424242424242,"legionella",0,1
+"288","Phase 2","full-scale
+distribution system
+",2018-02-16,"not applicable","bulkwater","site_286",2,"Undetermined",NA,NA,0.00655307994757536,"legionella",0,1
+"289","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater","advanced_feed",2,"Undetermined",NA,NA,0.0233918128654971,"legionella",0,1
+"292","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_328",1.5,"Undetermined",NA,NA,0.00981675392670157,"legionella",0,1
+"293","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_282",1,"Undetermined",NA,NA,0.00931098696461825,"legionella",0,1
+"294","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_282",1,"Undetermined",NA,NA,0.00911161731207289,"legionella",0,1
+"297","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater","Loop_5",2,"Undetermined",NA,NA,0.0555555555555556,"legionella",0,1
+"298","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater","Loop_5",1,"Undetermined",NA,NA,0.0223214285714286,"legionella",0,1
+"299","Phase 2","conventional control loop",2018-01-15,"100% conventional","bulkwater","Loop_5",1,"Undetermined",NA,NA,0.0347222222222222,"legionella",0,1
+"300","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater","Loop_5",1.25,"Undetermined",NA,NA,0.0440140845070422,"legionella",0,1
+"301","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater","Loop_5",2,"Undetermined",NA,NA,0.071301247771836,"legionella",0,1
+"304","Phase 2","advanced blend loops",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"Undetermined",NA,NA,0.0324675324675325,"legionella",0,1
+"305","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"Undetermined",NA,NA,0.028735632183908,"legionella",0,1
+"307","Phase 1","advanced blend loops",2017-12-18,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"Undetermined",NA,NA,0.0649350649350649,"legionella",0,1
+"308","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0274725274725275,"legionella",0,1
+"310","Phase 2","advanced blend loops",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"Undetermined",NA,NA,0.0357142857142857,"legionella",0,1
+"311","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_3",2,"Undetermined",NA,NA,0.0483091787439613,"legionella",0,1
+"313","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0210526315789474,"legionella",0,1
+"314","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_2",2,"Undetermined",NA,NA,0.0462962962962963,"legionella",0,1
+"316","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0235849056603774,"legionella",0,1
+"318","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_1",1,"Undetermined",NA,NA,0.0202020202020202,"legionella",0,1
+"319","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_1",1,"Undetermined",NA,NA,0.0231481481481481,"legionella",0,1
+"320","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_1",1,"Undetermined",NA,NA,0.0227272727272727,"legionella",0,1
+"322","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_1",2,"Undetermined",NA,NA,0.05,"legionella",0,1
+"323","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater","advanced_feed",3,"Undetermined",NA,NA,0.0315126050420168,"legionella",0,1
+"325","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_3",3,"Undetermined",NA,NA,0.144230769230769,"legionella",0,1
+"326","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0267022696929239,"legionella",0,1
+"327","Phase 1","advanced blend loops",2018-01-01,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"Undetermined",NA,NA,0.0176991150442478,"legionella",0,1
+"328","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0301204819277108,"legionella",0,1
+"329","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"Undetermined",NA,NA,0.0277777777777778,"legionella",0,1
+"330","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater","advanced_feed",2,"Undetermined",NA,NA,0.065359477124183,"legionella",0,1
+"331","Phase 2","advanced feedwater",2018-02-15,"100% advanced","bulkwater","advanced_feed",10,"Undetermined",NA,NA,0.165425971877585,"legionella",0,1
+"332","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater","advanced_feed",5,"Undetermined",NA,NA,0.0168067226890756,"legionella",0,1
+"334","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"Undetermined",NA,NA,0.0294117647058824,"legionella",0,1
+"335","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater","Loop_5",1,"Undetermined",NA,NA,0.0213675213675214,"legionella",0,1
+"337","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater","conventional_feed",3,"Undetermined",NA,NA,0.00809279741030483,"legionella",0,1
+"338","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"Undetermined",NA,NA,0.025,"legionella",0,1
+"339","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_282",3,"Undetermined",NA,NA,0.00610376398779247,"legionella",0,1
+"342","Phase 1","conventional feedwater",2017-12-07,"100% conventional","bulkwater","conventional_feed",2,"Undetermined",NA,NA,0.0340136054421769,"legionella",0,1
+"343","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater","conventional_feed",3,"Undetermined",NA,NA,0.0220588235294118,"legionella",0,1
+"344","Phase 2","conventional feedwater",2018-01-12,"100% conventional","bulkwater","conventional_feed",3,"Undetermined",NA,NA,0.0298804780876494,"legionella",0,1
+"345","Phase 2","conventional feedwater",2018-03-01,"100% conventional","bulkwater","conventional_feed",3,"Undetermined",NA,NA,0.0704225352112676,"legionella",0,1
+"346","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater","advanced_feed",1,"Undetermined",NA,NA,0.00283687943262411,"legionella",0,1
+"347","Phase 1","advanced blend loops",2018-01-01,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"Undetermined",NA,NA,0.0373831775700934,"legionella",0,1
+"348","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater","advanced_feed",1.5,"Undetermined",NA,NA,NA,"legionella",0,1
+"349","Phase 1","advanced feedwater",2018-01-05,"100% advanced","bulkwater","advanced_feed",1.25,"39.26773834",1.673659325,NA,0.018896447467876,"MAC",0,0
+"352","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_328",2,"Undetermined",NA,NA,0.00650089387290752,"MAC",0,1
+"353","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_328",2,"44.37909698",0.4455039501,NA,0.0221729490022173,"MAC",0,0
+"355","Phase 2","full-scale
+distribution system
+",2018-02-16,"not applicable","bulkwater","site_286",2,"Undetermined",NA,NA,0.00655307994757536,"MAC",0,1
+"356","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater","advanced_feed",10,"44.61696625",0.3893299997,NA,0.116959064327485,"MAC",0,0
+"357","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_286",1,"Undetermined",NA,NA,0.0096585929895795,"MAC",0,1
+"358","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_286",2,"Undetermined",NA,NA,0.00972651608460931,"MAC",0,1
+"361","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater","Loop_5",1,"44.22676086",0.3718448877,NA,0.0277777777777778,"MAC",0,0
+"362","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_282",1,"43.45578384",0.1164932698,NA,0.00931098696461825,"MAC",0,0
+"363","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_282",1,"43.88323212",0.08875145763,NA,0.00911161731207289,"MAC",0,0
+"366","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater","Loop_5",2,"Undetermined",NA,NA,0.0555555555555556,"MAC",0,1
+"367","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater","Loop_5",1,"41.85040665",1.463231444,NA,0.0223214285714286,"MAC",0,0
+"368","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater","Loop_5",1.25,"Undetermined",NA,NA,0.0440140845070422,"MAC",0,1
+"369","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater","Loop_5",1.25,"43.75705338",0.09617119282,NA,0.0445632798573975,"MAC",0,0
+"371","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"41.58037186",0.3842119575,NA,0.028735632183908,"MAC",0,0
+"372","Phase 1","advanced blend loops",2017-12-18,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"38.47344971",2.774397612,NA,0.0324675324675325,"MAC",0,0
+"373","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_4",3,"38.96794128",7.708604813,NA,0.125,"MAC",0,0
+"374","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0274725274725275,"MAC",0,1
+"376","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_3",1.25,"Undetermined",NA,NA,0.0301932367149758,"MAC",0,1
+"379","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_2",1,"38.2460556",11.68716812,NA,0.0255268732666667,"MAC",1,0
+"380","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0210526315789474,"MAC",0,1
+"381","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_2",2,"44.20521164",0.07230968773,NA,0.0462962962962963,"MAC",0,0
+"383","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0235849056603774,"MAC",0,1
+"384","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_1",1,"Undetermined",NA,NA,0.0202020202020202,"MAC",0,1
+"385","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_1",1,"Undetermined",NA,NA,0.0227272727272727,"MAC",0,1
+"387","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_1",1.5,"Undetermined",NA,NA,0.0375,"MAC",0,1
+"388","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_3",1.5,"44.69058609",0.05309617892,NA,0.0721153846153846,"MAC",0,0
+"389","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"Undetermined",NA,NA,0.0301204819277108,"MAC",0,1
+"390","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater","advanced_feed",1.5,"Undetermined",NA,NA,0.0490196078431372,"MAC",0,1
+"391","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater","advanced_feed",1,"42.85998917",0.8176188469,NA,0.00336134453781513,"MAC",0,0
+"393","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"Undetermined",NA,NA,0.0147058823529412,"MAC",0,1
+"394","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater","Loop_5",1,"44.74272537",0.09809243679,NA,0.0213675213675214,"MAC",0,0
+"395","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater","conventional_feed",3,"Undetermined",NA,NA,0.00809279741030483,"MAC",0,1
+"396","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"33.98368454",87.05677032,NA,0.2176419258,"MAC",1,0
+"397","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_282",3,"42.16598511",0.4985489547,NA,0.00610376398779247,"MAC",0,0
+"399","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater","conventional_feed",1.5,"44.62353134",0.387884438,NA,0.0110294117647059,"MAC",0,0
+"400","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater","advanced_feed",1,"40.3024025",0.8664383292,NA,0.00283687943262411,"MAC",0,0
+"401","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater","advanced_feed",1.5,"44.02155304",0.08127379417,NA,NA,"MAC",0,0
+"423","Phase 1","advanced feedwater",2018-01-05,"100% advanced","bulkwater","advanced_feed",1.25,"25.05856514",26945.79688,NA,51.9580594860166,"sul1",1,0
+"426","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_328",3,"32.98385239",128.0654144,NA,0.108861624670892,"sul1",1,0
+"427","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_328",3,"32.10925293",221.54245,NA,0.704355024279379,"sul1",1,0
+"429","Phase 2","full-scale
+distribution system
+",2018-02-16,"not applicable","bulkwater","site_286",3,"31.94440651",245.6520844,NA,0.252752651539974,"sul1",1,0
+"430","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater","advanced_feed",10,"16.60669708",3668836.25,NA,41625.8450292398,"sul1",1,0
+"431","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_286",1,"35.73258591",60.69556427,NA,0.0570948176262883,"sul1",1,0
+"432","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_286",2,"36.58513641",37.29341888,NA,0.0312621686059738,"sul1",1,0
+"436","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater","Loop_5",1,"36.76938629",33.56744766,NA,0.108446534472222,"sul1",1,0
+"437","Phase 2","full-scale
+distribution system
+",2018-03-01,"not applicable","bulkwater","site_282",1,"32.57126236",293.8886108,NA,0.297652118435754,"sul1",1,0
+"438","Phase 2","full-scale
+distribution system
+",2018-03-22,"not applicable","bulkwater","site_282",10,"35.32130814",56.21779633,NA,0.55822753904328,"sul1",1,0
+"442","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater","Loop_5",2,"36.28752899",31.44111824,NA,0.181966336555556,"sul1",1,0
+"443","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater","Loop_5",1,"35.13853455",85.22087097,NA,0.159562161986607,"sul1",1,0
+"444","Phase 2","conventional control loop",2018-01-15,"100% conventional","bulkwater","Loop_5",1,"36.05438",19.70834,NA,0.0716065277777778,"sul1",1,0
+"445","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater","Loop_5",2,"36.45197678",28.48028946,NA,0.228513798239437,"sul1",1,0
+"446","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater","Loop_5",2,"33.15261078",207.1739655,NA,1.3533932285205,"sul1",1,0
+"449","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_4",1.5,"25.76480103",17620.69336,NA,75.0659348275862,"sul1",1,0
+"451","Phase 1","advanced blend loops",2017-12-18,"90% advanced
+10% conventional","bulkwater","Loop_4",2,"35.46284103",51.63040924,NA,0.424624851753247,"sul1",1,0
+"453","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"25.20664024",24649.83203,NA,65.7411519230769,"sul1",1,0
+"455","Phase 2","advanced blend loops",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"28.44825",2125.179,NA,8.18346785714286,"sul1",1,0
+"456","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_3",2,"22.21672249",148859.7188,NA,725.711201932367,"sul1",1,0
+"458","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater","Loop_2",1,"35.12830734",63.13721085,NA,0.124773696105263,"sul1",1,0
+"459","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_2",4,"22.60687447",117725.3359,NA,1016.17961481481,"sul1",1,0
+"461","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"27.1662426",7585.216309,NA,17.9382750306604,"sul1",1,0
+"463","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater","Loop_1",10,"37.98448563",11.33064842,NA,0.332013949090909,"sul1",1,0
+"464","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","bulkwater","Loop_1",10,"24.64583588",34537.86328,NA,748.473455227273,"sul1",1,0
+"468","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater","Loop_1",5,"38.3429718",9.133107185,NA,0.17586044075,"sul1",1,0
+"469","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater","advanced_feed",4,"20.13992",353025.9,NA,1468.55840336134,"sul1",1,0
+"470","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"25.41342",13754.93,NA,41.9580952380952,"sul1",1,0
+"472","Phase 2","advanced blend loops",2018-03-05,"90% advanced
+10% conventional","bulkwater","Loop_3",2,"27.21213341",7378.725586,NA,67.6607759903846,"sul1",1,0
+"473","Phase 1","conventional control loop",2017-12-18,"100% conventional","bulkwater","Loop_5",2,"27.12754",4790.225,NA,29.5692901234568,"sul1",1,0
+"474","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
+10% conventional","bulkwater","Loop_2",1,"26.94363785",9199.554688,NA,26.3826389548193,"sul1",1,0
+"475","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"29.95144",842.6885,NA,2.80255238095238,"sul1",1,0
+"476","Phase 1","advanced blend loops",2017-12-11,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"31.02532005",893.4455566,NA,2.32380099833333,"sul1",1,0
+"477","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater","advanced_feed",2,"23.46291161",70351.60156,NA,468.610906862745,"sul1",1,0
+"478","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater","advanced_feed",5,"19.00410652",858280.875,NA,1447.17394957983,"sul1",1,0
+"480","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","bulkwater","Loop_4",1,"30.38048363",631.3366089,NA,0.855005241911765,"sul1",1,0
+"481","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater","Loop_5",1,"32.69169617",138.7002106,NA,0.27005343974359,"sul1",1,0
+"483","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater","conventional_feed",1,"31.39183426",325.2744446,NA,0.0655622088751012,"sul1",1,0
+"484","Phase 2","advanced blend loops",2018-02-19,"90% advanced
+10% conventional","bulkwater","Loop_3",1,"26.25833321",9422.390625,NA,23.1168603525,"sul1",1,0
+"485","Phase 2","full-scale
+distribution system
+",2018-02-14,"not applicable","bulkwater","site_282",3,"27.9735775",3059.822754,NA,1.9374224612411,"sul1",1,0
+"488","Phase 1","conventional feedwater",2017-12-07,"100% conventional","bulkwater","conventional_feed",1.5,"35.57606506",66.37294006,NA,0.129201198112245,"sul1",1,0
+"489","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater","conventional_feed",3,"34.95920563",37.13924026,NA,0.0728418378308824,"sul1",1,0
+"490","Phase 2","conventional feedwater",2018-01-12,"100% conventional","bulkwater","conventional_feed",2,"34.37807",55.2898,NA,0.101608426294821,"sul1",1,0
+"492","not applicable","RO permeate",2017-09-21,"not applicable","bulkwater","RO_2stage",1,"27.1068",11530.36,NA,0.173144865718799,"sul1",1,0
+"493","not applicable","RO permeate",2017-09-26,"not applicable","bulkwater","RO_2stage",1.5,"28.99484",4057.102,NA,0.0718237660360948,"sul1",1,0
+"494","not applicable","RO permeate",2017-09-26,"not applicable","bulkwater","RO_3stage",1,"27.43094",9637.506,NA,0.0942394940568705,"sul1",1,0
+"495","not applicable","RO permeate",2017-11-14,"not applicable","bulkwater","RO_2stage",2,"26.97398",12409.55,NA,0.382160223824723,"sul1",1,0
+"496","not applicable","RO permeate",2017-11-14,"not applicable","bulkwater","RO_3stage",1,"24.67594",44247.71,NA,0.67966914766287,"sul1",1,0
+"497","not applicable","RO permeate",2017-12-14,"not applicable","bulkwater","RO_3stage",1,"30.02962",2288.741,NA,0.0519186336088154,"sul1",1,0
+"499","not applicable","RO permeate",2017-09-14,"not applicable","bulkwater","RO_3stage",1,"31.95399",245.7437,NA,0.0721413670229997,"sul1",1,0
+"500","not applicable","RO permeate",2017-10-10,"not applicable","bulkwater","RO_3stage",1,"29.31122",1249.589,NA,0.080266862170088,"sul1",1,0
+"501","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater","advanced_feed",1,"21.9651432",173176.6875,NA,48.6079122269504,"sul1",1,0
+"503","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater","advanced_feed",1.5,"26.07499504",14621.79297,NA,NA,"sul1",1,0
+"505","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater","conventional_feed",2,"20.17050934",932438.1875,NA,2143.87283986175,"S16",1,0
+"533","Phase 1","conventional control loop",2017-12-29,"100% conventional","biofilm","Loop_5",1,"20.77445602",777561.75,24129854.7794118,NA,"S16",1,0
+"534","Phase 2","conventional control loop",2018-01-11,"100% conventional","biofilm","Loop_5",1,"22.28749466",291988.375,11911953.1269231,NA,"S16",1,0
+"535","Phase 2","conventional control loop",2018-01-15,"100% conventional","biofilm","Loop_5",1,"20.3651371",1013465.75,6538975,NA,"S16",1,0
+"538","Phase 2","conventional control loop",2018-03-26,"100% conventional","biofilm","Loop_5",5,"23.63452",269124,15447581.25,NA,"S16",1,0
+"539","Phase 1","conventional control loop",2017-12-13,"100% conventional","biofilm","Loop_5",2,"21.38320732",524316,14405773.4375,NA,"S16",1,0
+"540","Phase 1","conventional control loop",2018-01-05,"100% conventional","biofilm","Loop_5",1,"21.73311615",418043.25,5867762.11,NA,"S16",1,0
+"541","Phase 2","conventional control loop",2018-02-15,"100% conventional","biofilm","Loop_5",1,"21.36970329",528919.5,6741243.75,NA,"S16",1,0
+"544","Phase 2","conventional control loop",2018-01-18,"100% conventional","biofilm","Loop_5",2,"22.71185875",221851.125,2672999.02375,NA,"S16",1,0
+"545","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_4",3,"21.37602997",526757.75,16008590.4605263,NA,"S16",1,0
+"546","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_4",1.5,"21.70635605",425348.0313,7724069.53125,NA,"S16",1,0
+"547","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_4",1,"20.76973152",779943.4375,8601703.125,NA,"S16",1,0
+"548","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_4",2,"20.96555328",687085.1875,16421148.4375,NA,"S16",1,0
+"549","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_4",1,"20.01946068",1267625.875,14220795.3125,NA,"S16",1,0
+"551","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_4",1,"17.00702095",8910369,51155415.625,NA,"S16",1,0
+"553","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_3",2,"24.54638",118336.7,2808972.5,NA,"S16",1,0
+"554","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_3",1,"22.74538",334256.8,10463546.1538462,NA,"S16",1,0
+"555","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_3",2,"17.54104042",4693783.5,471387850,NA,"S16",1,0
+"557","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_4",1,"21.79451752",400791.9688,16129645.4346154,NA,"S16",1,0
+"559","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_4",1,"21.87317",552684.4,21514830.7692308,NA,"S16",1,0
+"560","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_2",2,"22.0117321",353403.6875,8804525,NA,"S16",1,0
+"561","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_2",5,"22.55613708",257814.2813,8220936.525,NA,"S16",1,0
+"563","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_3",5,"25.04332",119094.7,9083782.95454545,NA,"S16",1,0
+"564","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_3",1,"22.13538",475140.4,10746947.7272727,NA,"S16",1,0
+"565","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_3",2,"23.2734",246529.2,3674007.46268657,NA,"S16",1,0
+"566","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"19.67886734",1261413.75,23710549.21875,NA,"S16",1,0
+"568","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_1",1.5,"18.29003143",2962030.25,65982840.9090909,NA,"S16",1,0
+"569","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_1",2,"22.18191147",320225.9375,15780351.565,NA,"S16",1,0
+"570","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_2",2,"22.01443",687246.6,17470460,NA,"S16",1,0
+"571","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_2",2,"22.79148",325490.6,7772070,NA,"S16",1,0
+"572","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_2",2,"21.37684059",444227.4688,10591925.7825,NA,"S16",1,0
+"573","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_2",2,"19.0721817",1940071.875,46310875,NA,"S16",1,0
+"574","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_2",2,"17.5965786",4536259,114535812.5,NA,"S16",1,0
+"576","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_1",10,"21.06080818",613068.875,136352173.295455,NA,"S16",1,0
+"577","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_1",1.25,"18.23820877",3057897.25,45802621.09375,NA,"S16",1,0
+"578","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_1",2,"20.86838341",607199.6875,30917334.375,NA,"S16",1,0
+"580","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_1",5,"19.28042603",1719597,197288139.204545,NA,"S16",1,0
+"581","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_1",2,"15.62827587",15209361,593901920,NA,"S16",1,0
+"592","Phase 1","transition loops (Phase 1)",2017-12-13,"100% conventional","biofilm","Loop_1",2,"26.66565",46576.89,4037422.30769231,NA,"S16",1,0
+"593","Phase 1","transition loops (Phase 1)",2017-12-13,"100% conventional","biofilm","Loop_2",5,"20.80001",1026102,25869700,NA,"S16",1,0
+"594","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater","conventional_feed",2,"39.04322433",1.759409547,NA,0.0230414746543779,"acanthamoeba",0,0
+"600","Phase 1","conventional control loop",2017-12-29,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,294.117647058824,NA,"acanthamoeba",0,1
+"601","Phase 2","conventional control loop",2018-01-15,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,62.5,NA,"acanthamoeba",0,1
+"604","Phase 2","conventional control loop",2018-03-26,"100% conventional","biofilm","Loop_5",5,"Undetermined",NA,625,NA,"acanthamoeba",0,1
+"605","Phase 1","conventional control loop",2017-12-13,"100% conventional","biofilm","Loop_5",5,"Undetermined",NA,625,NA,"acanthamoeba",0,1
+"606","Phase 1","conventional control loop",2018-01-05,"100% conventional","biofilm","Loop_5",2,"Undetermined",NA,250,NA,"acanthamoeba",0,1
+"607","Phase 2","conventional control loop",2018-02-15,"100% conventional","biofilm","Loop_5",2,"Undetermined",NA,250,NA,"acanthamoeba",0,1
+"610","Phase 2","conventional control loop",2018-01-18,"100% conventional","biofilm","Loop_5",2,"Undetermined",NA,125,NA,"acanthamoeba",0,1
+"611","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_4",5,"38.9865036",5.383509636,438.59649122807,NA,"acanthamoeba",0,0
+"612","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_4",5,"38.96969604",5.437987804,625,NA,"acanthamoeba",0,0
+"613","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_4",2,"37.04528427",17.22283745,782.035191904762,NA,"acanthamoeba",1,0
+"614","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_4",5,"Undetermined",NA,625,NA,"acanthamoeba",0,1
+"615","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_4",5,"Undetermined",NA,625,NA,"acanthamoeba",0,1
+"616","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,125,NA,"acanthamoeba",0,1
+"617","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_3",1,"Undetermined",NA,74.6268656716418,NA,"acanthamoeba",0,1
+"618","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_3",2,"35.17337036",21.23818207,1522.054672,NA,"acanthamoeba",1,0
+"620","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_4",1,"37.31712723",8.699056625,386.723555,NA,"acanthamoeba",1,0
+"622","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_2",1,"Undetermined",NA,125,NA,"acanthamoeba",0,1
+"623","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_2",1.5,"Undetermined",NA,93.75,NA,"acanthamoeba",0,1
+"625","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_3",1.25,"43.55847",0.354,284.090909090909,NA,"acanthamoeba",0,0
+"626","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"38.92825699",1.894541264,187.5,NA,"acanthamoeba",0,0
+"627","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_1",1.5,"Undetermined",NA,227.272727272727,NA,"acanthamoeba",0,1
+"628","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_1",1,"Undetermined",NA,250,NA,"acanthamoeba",0,1
+"629","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_2",1,"34.97079",54.97098,605.85075,NA,"acanthamoeba",1,0
+"630","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_2",2,"39.16716003",1.624511719,250,NA,"acanthamoeba",0,0
+"631","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_2",1,"37.1522789",9.64385891,125,NA,"acanthamoeba",0,0
+"632","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_2",2,"Undetermined",NA,250,NA,"acanthamoeba",0,1
+"634","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_1",2,"Undetermined",NA,454.545454545455,NA,"acanthamoeba",0,1
+"635","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_1",1.25,"35.68289948",15.29985619,441.11931328125,NA,"acanthamoeba",1,0
+"636","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_1",2,"Undetermined",NA,500,NA,"acanthamoeba",0,1
+"637","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_1",1,"Undetermined",NA,227.272727272727,NA,"acanthamoeba",0,1
+"638","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_1",2,"Undetermined",NA,400,NA,"acanthamoeba",0,1
+"643","Phase 1","transition loops (Phase 1)",2017-12-13,"100% conventional","biofilm","Loop_1",1,"Undetermined",NA,384.615384615385,NA,"acanthamoeba",0,1
+"683","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater","conventional_feed",2,"40.00333405",5.103908062,NA,0.0230414746543779,"blatem",0,0
+"693","Phase 1","conventional control loop",2017-12-29,"100% conventional","biofilm","Loop_5",1,"38.00284576",10.89941788,320.571114117647,NA,"blatem",1,0
+"694","Phase 2","conventional control loop",2018-01-15,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,62.5,NA,"blatem",0,1
+"697","Phase 1","conventional control loop",2017-12-13,"100% conventional","biofilm","Loop_5",5,"Undetermined",NA,625,NA,"blatem",0,1
+"698","Phase 1","conventional control loop",2018-01-05,"100% conventional","biofilm","Loop_5",1,"38.36003",3.668841,125,NA,"blatem",0,0
+"699","Phase 2","conventional control loop",2018-02-15,"100% conventional","biofilm","Loop_5",1,"38.21566",4.017833,125,NA,"blatem",0,0
+"702","Phase 2","conventional control loop",2018-01-18,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,62.5,NA,"blatem",0,1
+"703","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_4",5,"Undetermined",NA,438.59649122807,NA,"blatem",0,1
+"704","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,250,NA,"blatem",0,1
+"705","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,238.095238095238,NA,"blatem",0,1
+"706","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_4",5,"Undetermined",NA,625,NA,"blatem",0,1
+"707","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_4",2,"42.50819",0.26956,250,NA,"blatem",0,0
+"709","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,125,NA,"blatem",0,1
+"710","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"Undetermined",NA,187.5,NA,"blatem",0,1
+"711","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_3",1,"39.14572525",5.550341606,74.6268656716418,NA,"blatem",0,0
+"712","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_3",2,"38.07529831",15.40694809,1609.310341,NA,"blatem",1,0
+"714","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_4",1,"37.91318512",11.49201488,442.000572307692,NA,"blatem",1,0
+"716","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_2",1,"32.96074295",214.0010834,1888.34972375,NA,"blatem",1,0
+"717","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_2",2,"38.94609451",6.244729996,125,NA,"blatem",0,0
+"719","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"Undetermined",NA,111.940298507463,NA,"blatem",0,1
+"720","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"Undetermined",NA,187.5,NA,"blatem",0,1
+"721","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_1",1.5,"Undetermined",NA,227.272727272727,NA,"blatem",0,1
+"722","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_1",1,"Undetermined",NA,250,NA,"blatem",0,1
+"723","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_2",1.5,"Undetermined",NA,187.5,NA,"blatem",0,1
+"724","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_2",2,"36.5945015",35.99398041,486.36374475,NA,"blatem",1,0
+"725","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_2",1,"39.14239883",5.561254501,125,NA,"blatem",0,0
+"726","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_2",2,"Undetermined",NA,250,NA,"blatem",0,1
+"728","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_1",2,"34.50750732",85.85366821,4065.69428863636,NA,"blatem",1,0
+"729","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_1",1.25,"34.90842819",94.58636475,1720.10290625,NA,"blatem",1,0
+"730","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_1",1,"Undetermined",NA,250,NA,"blatem",0,1
+"732","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_1",1,"35.23709488",55.80346298,1311.63163613636,NA,"blatem",1,0
+"733","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_1",3,"37.71437836",18.9467926,1136.807556,NA,"blatem",1,0
+"742","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater","conventional_feed",1.5,"Undetermined",NA,NA,0.0172811059907834,"legionella",0,1
+"748","Phase 2","conventional control loop",2018-01-11,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,384.615384615385,NA,"legionella",0,1
+"751","Phase 1","conventional control loop",2017-12-13,"100% conventional","biofilm","Loop_5",5,"Undetermined",NA,625,NA,"legionella",0,1
+"752","Phase 1","conventional control loop",2018-01-05,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,125,NA,"legionella",0,1
+"753","Phase 2","conventional control loop",2018-02-15,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,125,NA,"legionella",0,1
+"756","Phase 2","conventional control loop",2018-01-18,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,62.5,NA,"legionella",0,1
+"757","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_4",5,"Undetermined",NA,438.59649122807,NA,"legionella",0,1
+"758","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,250,NA,"legionella",0,1
+"759","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,238.095238095238,NA,"legionella",0,1
+"760","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_4",5,"Undetermined",NA,625,NA,"legionella",0,1
+"761","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,250,NA,"legionella",0,1
+"763","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,125,NA,"legionella",0,1
+"765","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_3",1,"Undetermined",NA,125,NA,"legionella",0,1
+"766","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_3",2,"Undetermined",NA,1000,NA,"legionella",0,1
+"768","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_4",1,"Undetermined",NA,384.615384615385,NA,"legionella",0,1
+"769","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_4",1,"Undetermined",NA,384.615384615385,NA,"legionella",0,1
+"770","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_3",1,"Undetermined",NA,227.272727272727,NA,"legionella",0,1
+"771","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_3",1,"Undetermined",NA,74.6268656716418,NA,"legionella",0,1
+"772","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_3",1,"41.19028091",1.048164845,125,NA,"legionella",0,0
+"773","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_1",1.5,"Undetermined",NA,227.272727272727,NA,"legionella",0,1
+"774","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_2",1,"Undetermined",NA,125,NA,"legionella",0,1
+"775","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_2",1,"Undetermined",NA,125,NA,"legionella",0,1
+"776","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_2",2,"Undetermined",NA,250,NA,"legionella",0,1
+"778","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_1",1.25,"Undetermined",NA,156.25,NA,"legionella",0,1
+"779","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_1",1,"Undetermined",NA,250,NA,"legionella",0,1
+"781","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_1",2,"Undetermined",NA,400,NA,"legionella",0,1
+"784","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater","conventional_feed",2,"Undetermined",NA,NA,0.0230414746543779,"MAC",0,1
+"786","Phase 1","conventional control loop",2017-12-29,"100% conventional","biofilm","Loop_5",1,"41.44469452",1.848793268,294.117647058824,NA,"MAC",0,0
+"787","Phase 2","conventional control loop",2018-01-15,"100% conventional","biofilm","Loop_5",1,"44.02463913",0.4177972972,62.5,NA,"MAC",0,0
+"789","Phase 2","conventional control loop",2018-03-26,"100% conventional","biofilm","Loop_5",5,"Undetermined",NA,625,NA,"MAC",0,1
+"790","Phase 1","conventional control loop",2017-12-13,"100% conventional","biofilm","Loop_5",5,"Undetermined",NA,625,NA,"MAC",0,1
+"791","Phase 1","conventional control loop",2018-01-05,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,125,NA,"MAC",0,1
+"792","Phase 2","conventional control loop",2018-02-15,"100% conventional","biofilm","Loop_5",1,"40.15010834",1.778662801,125,NA,"MAC",0,0
+"795","Phase 2","conventional control loop",2018-01-18,"100% conventional","biofilm","Loop_5",1,"Undetermined",NA,62.5,NA,"MAC",0,1
+"796","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_4",5,"42.92465973",0.3088997602,438.59649122807,NA,"MAC",0,0
+"797","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_4",1,"43.05822754",0.2839341462,125,NA,"MAC",0,0
+"798","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_4",1,"39.01755142",3.634412289,119.047619047619,NA,"MAC",0,0
+"799","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,250,NA,"MAC",0,1
+"800","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_4",2,"41.51478195",0.751880765,250,NA,"MAC",0,0
+"801","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_4",2,"Undetermined",NA,125,NA,"MAC",0,1
+"802","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_3",1,"44.49354553",0.3188370466,74.6268656716418,NA,"MAC",0,0
+"803","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_3",2,"Undetermined",NA,1000,NA,"MAC",0,1
+"805","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_4",1,"41.01701355",2.365722895,384.615384615385,NA,"MAC",0,0
+"806","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_2",1,"44.40107727",0.3362942338,125,NA,"MAC",0,0
+"807","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_2",1.5,"38.84634399",8.268358231,93.75,NA,"MAC",0,0
+"809","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"Undetermined",NA,187.5,NA,"MAC",0,1
+"810","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_1",1.5,"42.4463768",1.331821084,227.272727272727,NA,"MAC",0,0
+"811","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_1",2,"Undetermined",NA,500,NA,"MAC",0,1
+"812","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_2",2,"43.27709198",0.8318165541,250,NA,"MAC",0,0
+"813","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_2",1,"Undetermined",NA,125,NA,"MAC",0,1
+"814","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_2",2,"40.91794968",3.166312218,250,NA,"MAC",0,0
+"816","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_1",2,"44.96832275",0.2424946278,454.545454545455,NA,"MAC",0,0
+"817","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_1",1.25,"42.48189545",1.305285811,156.25,NA,"MAC",0,0
+"818","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_1",2,"43.39442444",0.7783142328,500,NA,"MAC",0,0
+"819","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_1",1,"44.76449585",0.2727299631,227.272727272727,NA,"MAC",0,0
+"820","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_1",2,"43.91993713",0.5778822899,400,NA,"MAC",0,0
+"836","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater","conventional_feed",3,"36.74565506",12.12397194,NA,0.0345622119815668,"sul1",0,0
+"845","Phase 1","conventional control loop",2017-12-29,"100% conventional","biofilm","Loop_5",1,"35.11285782",86.4801712,2003.89906941176,NA,"sul1",1,0
+"846","Phase 2","conventional control loop",2018-01-15,"100% conventional","biofilm","Loop_5",1,"35.70516586",61.6538353,523.7466335,NA,"sul1",1,0
+"848","Phase 1","conventional control loop",2017-12-13,"100% conventional","biofilm","Loop_5",3,"36.36434174",12.47918797,442.038881625,NA,"sul1",1,0
+"849","Phase 1","conventional control loop",2018-01-05,"100% conventional","biofilm","Loop_5",1,"35.15263367",27.62198067,321.786785125,NA,"sul1",1,0
+"850","Phase 2","conventional control loop",2018-02-15,"100% conventional","biofilm","Loop_5",1,"36.64482498",10.3827095,201.115274375,NA,"sul1",1,0
+"853","Phase 2","conventional control loop",2018-01-18,"100% conventional","biofilm","Loop_5",1,"37.53178787",5.803936481,66.067957875,NA,"sul1",1,0
+"854","Phase 1","advanced blend loops",2017-12-13,"90% advanced
+10% conventional","biofilm","Loop_4",5,"29.53223991",1101.089478,45925.1162719298,NA,"sul1",1,0
+"855","Phase 1","advanced blend loops",2018-01-05,"90% advanced
+10% conventional","biofilm","Loop_4",2,"24.59826469",27984.21289,694893.99425,NA,"sul1",1,0
+"856","Phase 2","advanced blend loops",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_4",2,"26.43349838",8399.97168,199693.057095238,NA,"sul1",1,0
+"857","Phase 2","advanced blend loops",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_4",5,"28.74905586",1840.164551,115862.0681875,NA,"sul1",1,0
+"858","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_4",2,"26.50370979",8022.008789,204942.504875,NA,"sul1",1,0
+"860","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_4",2,"20.58603859",388605.6875,3671594.14125,NA,"sul1",1,0
+"861","Phase 2","advanced blend loops",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_3",1,"27.95469284",5163.162598,37943.8695223881,NA,"sul1",1,0
+"862","Phase 2","advanced blend loops",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_3",3,"21.98799515",125889.7656,18833705.865,NA,"sul1",1,0
+"864","Phase 1","advanced blend loops",2017-12-29,"90% advanced
+10% conventional","biofilm","Loop_4",1,"24.51208687",36902.39063,1457865.23423077,NA,"sul1",1,0
+"865","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_2",1,"32.3908844",409.506134,5798.0590825,NA,"sul1",1,0
+"866","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_2",2,"30.51424026",1196.38562,13808.123775,NA,"sul1",1,0
+"868","Phase 2","advanced blend loops",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_3",1.5,"24.97527122",19363.92773,367409.362875,NA,"sul1",1,0
+"869","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","biofilm","Loop_1",1.5,"36.27173996",16.31632996,347.876006818182,NA,"sul1",1,0
+"870","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
+10% conventional","biofilm","Loop_1",1,"28.0134697",4992.668945,118551.7212,NA,"sul1",1,0
+"871","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_2",1,"36.52976",14.70968,150.990125,NA,"sul1",1,0
+"872","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_2",2,"32.57706833",165.2492371,4317.121505,NA,"sul1",1,0
+"873","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_2",1,"22.95301628",89923.38281,1099658.984375,NA,"sul1",1,0
+"874","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_2",2,"21.01782799",231219.5781,5679088.6725,NA,"sul1",1,0
+"876","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","biofilm","Loop_1",2,"36.16151428",47.50466919,1392.81021454545,NA,"sul1",1,0
+"877","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
+10% conventional","biofilm","Loop_1",1.25,"27.88954544",3117.914307,47443.3555625,NA,"sul1",1,0
+"878","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
+10% conventional","biofilm","Loop_1",2,"29.58127213",1080.078247,57215.75315,NA,"sul1",1,0
+"880","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
+10% conventional","biofilm","Loop_1",1,"23.45910454",67345.41406,1542506.92477273,NA,"sul1",1,0
+"881","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
+10% conventional","biofilm","Loop_1",2,"21.06144524",224985.2344,8876170,NA,"sul1",1,0
+"887","Phase 1","transition loops (Phase 1)",2017-12-13,"100% conventional","biofilm","Loop_1",1,"42.07008",0.486348,384.615384615385,NA,"sul1",0,0
