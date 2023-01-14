@@ -1,1068 +1,1068 @@
-"","Phase","adj_loc","sample_date","influent_composition","sample_type","location_code_orig","broad_location","batch_end_or_start","ICC_to_TCC","avg_cells_per_mL_gmean","avg_cells_per_mL_gstd","assay"
-"1","Phase 2","transition loops (Phase 2)",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",NA,NA,2.22638106,"TCC"
-"5","NA","RO permeate",2017-12-14,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.714069818621269,97.7505238,1.17632702,"TCC"
-"6","NA","RO permeate",2017-10-10,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.935399072540242,100.217394,1.46823078,"TCC"
-"7","NA","RO permeate",2017-11-07,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.61569747713234,104.894206,1.52018147,"TCC"
-"8","Phase 2","transition loops (Phase 2)",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",NA,NA,1.49210625,"TCC"
-"10","NA","RO permeate",2017-10-10,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.627181487466165,142.41292,1.02552592,"TCC"
-"12","NA","RO permeate",2017-11-14,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.685465800213059,174.572301,1.08005466,"TCC"
-"13","NA","RO permeate",2017-08-01,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.247225361192107,177.111359,1.65543992,"TCC"
-"15","NA","RO permeate",2017-11-14,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.629416738821656,243.038171,1.55341432,"TCC"
-"16","NA","RO permeate",2017-12-14,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.61042576388419,267.65281,1.27985299,"TCC"
-"17","NA","RO permeate",2017-09-21,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.413193793442781,345.066536,1.05482155,"TCC"
-"18","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_340","DWDS_F",NA,1.08738037441933,349.698616,1.46316747,"TCC"
-"19","Phase 2","conventional feedwater",2018-03-05,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",NA,NA,1.47200713,"TCC"
-"20","NA","RO permeate",2017-09-21,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.366123238610396,459.489342,1.23077587,"TCC"
-"24","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_283","DWDS_F",NA,0.223308579375965,529.997277,1.72742137,"TCC"
-"30","NA","RO permeate",2017-09-14,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.329307052553476,980.202876,1.07508917,"TCC"
-"33","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_225","DWDS_F",NA,0.273212544919447,1183.52135,1.14192573,"TCC"
-"34","Phase 2","conventional feedwater",2018-03-22,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.393056313967474,1268.89781,1.16958014,"TCC"
-"35","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_331","DWDS_F",NA,0.306403182329816,1339.83347,1.06285828,"TCC"
-"37","NA","full-scale
-distribution system
-",2018-03-01,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.651943756155594,1612.26319,1.03490344,"TCC"
-"39","NA","RO permeate",2017-09-14,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.59581237790208,1847.58983,1.0452659,"TCC"
-"41","NA","RO permeate",2017-09-26,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.568669094440322,1900.13595,1.00621695,"TCC"
-"43","NA","full-scale
-distribution system
-",2018-03-22,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.464752496364404,2076.70202,1.43002245,"TCC"
-"44","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_229","DWDS_F",NA,0.712804321503905,2179.90223,1.38516867,"TCC"
-"45","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_226","DWDS_F",NA,0.353585282510469,2185.9951,1.04217219,"TCC"
-"46","Phase 2","conventional feedwater",2018-02-19,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.130004710024868,2341.19783,1.47012954,"TCC"
-"47","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_279","DWDS_F",NA,0.881221630465092,2353.79035,1.03725639,"TCC"
-"49","NA","full-scale
-distribution system
-",2018-04-19,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.394750487078425,2471.81447,1.22115016,"TCC"
-"50","Phase 2","conventional feedwater",2018-01-05,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.191875636497837,2558.83627,1.1060234,"TCC"
-"52","NA","RO permeate",2017-09-26,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.836765773693839,2681.66689,1.01925597,"TCC"
-"53","Phase 2","conventional feedwater",2018-01-31,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.537085482255691,2683.81032,1.12760549,"TCC"
-"54","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_307","DWDS_F",NA,0.180465730174821,2718.89963,1.14076566,"TCC"
-"55","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.79262753530717,2739.24106,1.05593194,"TCC"
-"56","NA","full-scale
-distribution system
-",2018-04-19,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.924501245052924,2748.44943,1.06992405,"TCC"
-"59","Phase 1","conventional feedwater",2018-01-01,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.407847415550264,3220.55151,1.04082935,"TCC"
-"60","Phase 2","conventional feedwater",2018-04-26,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F",NA,1.03189246969211,3314.02306,1.32975897,"TCC"
-"61","Phase 2","conventional feedwater",2018-01-12,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.152794881220271,3401.28408,1.07345818,"TCC"
-"63","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_179","DWDS_F",NA,0.603142095224262,3547.0981,1.03354721,"TCC"
-"64","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_224","DWDS_F",NA,0.401851671864679,3667.85397,1.11282768,"TCC"
-"65","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_63A","DWDS_F",NA,0.241602033487843,3790.3546,1.04787093,"TCC"
-"66","Phase 2","conventional feedwater",2018-01-29,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.477361234839918,4200.7194,1.00317958,"TCC"
-"67","Phase 2","conventional feedwater",2018-03-12,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.459581505948314,4467.59755,1.11000626,"TCC"
-"68","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_329","DWDS_F",NA,0.159296562318223,4631.94066,1.02673543,"TCC"
-"69","NA","full-scale
-distribution system
-",2018-04-26,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.64686224972746,4678.56911,1.20523175,"TCC"
-"70","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.331601543830025,4808.96205,1.07114233,"TCC"
-"71","Phase 2","conventional control loop",2018-03-12,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.572024591766362,4963.72803,1.2014337,"TCC"
-"72","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_63A","DWDS_F",NA,0.211419863661996,4994.07048,1.08991129,"TCC"
-"73","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.615411867290398,5200.25734,1.13054859,"TCC"
-"74","Phase 2","conventional feedwater",2018-01-08,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.424254346307582,5361.08054,1.52595196,"TCC"
-"75","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_283","DWDS_F",NA,0.610818395030006,5406.21135,1.03999878,"TCC"
-"77","Phase 1","transition loops (Phase 1)",2017-11-02,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.269937493595038,5507.83876,1.06889144,"TCC"
-"78","NA","full-scale
-distribution system
-",2018-03-22,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.71411454004997,5737.44555,1.12411456,"TCC"
-"80","Phase 1","transition loops (Phase 1)",2017-11-06,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.250164712032404,5892.48087,1.50492145,"TCC"
-"81","Phase 1","conventional control loop",2017-11-06,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.42993069046322,5947.65337,1.13409192,"TCC"
-"82","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.277582693092601,5980.58507,1.15607547,"TCC"
-"83","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.177776457961498,6002.68732,1.06923922,"TCC"
-"85","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_325","DWDS_F",NA,0.142866240837485,6332.12749,1.02396414,"TCC"
-"89","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_224","DWDS_F",NA,0.196184095518347,6490.15669,1.01905098,"TCC"
-"90","Phase 1","transition loops (Phase 1)",2017-11-13,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.244002519770621,6618.99931,1.07487284,"TCC"
-"91","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_279","DWDS_F",NA,0.22390963965652,6792.02022,1.08889387,"TCC"
-"92","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.260392743961582,7142.03826,1.13784657,"TCC"
-"94","Phase 1","transition loops (Phase 1)",2017-11-20,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.442880091371357,7644.19859,1.08561026,"TCC"
-"95","Phase 2","conventional feedwater",2018-01-15,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.704243797082897,8102.96094,1.03129534,"TCC"
-"96","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_223","DWDS_F",NA,0.19540252076963,8335.85495,1.01425933,"TCC"
-"97","Phase 1","transition loops (Phase 1)",2017-11-06,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.342920524749337,8424.24924,1.049136,"TCC"
-"98","Phase 2","conventional control loop",2018-01-29,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.354832374924814,8483.92222,1.05297591,"TCC"
-"99","NA","full-scale
-distribution system
-",2018-04-19,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.589315902194767,8727.11629,1.09735808,"TCC"
-"100","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_179","DWDS_F",NA,0.258977338850444,8984.33504,1.02258483,"TCC"
-"102","Phase 1","conventional feedwater",2017-12-11,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.459882881809374,9447.42225,1.10781417,"TCC"
-"104","Phase 1","transition loops (Phase 1)",2017-11-09,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.0854772516433863,10453.1573,1.95504075,"TCC"
-"105","Phase 2","conventional control loop",2018-01-31,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.353346913231868,10757.4196,1.0614039,"TCC"
-"107","Phase 1","conventional control loop",2017-11-02,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.293168389657136,11305.2086,1.02618044,"TCC"
-"108","Phase 2","conventional feedwater",2018-02-04,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.348967449261771,11421.2402,1.02695088,"TCC"
-"109","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_340","DWDS_F",NA,0.0888920141785319,11505.4225,1.00936186,"TCC"
-"110","Phase 2","transition loops (Phase 2)",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.140344958227116,11515.3769,1.02833712,"TCC"
-"112","Phase 1","transition loops (Phase 1)",2017-11-16,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.180520984931437,11905.5881,1.05564621,"TCC"
-"113","Phase 2","conventional feedwater",2018-03-01,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.276819172570258,12147.8882,1.08073545,"TCC"
-"114","Phase 2","conventional control loop",2018-02-04,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.468631181429245,12397.1309,1.03999339,"TCC"
-"115","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.267516778633414,12943.6048,1.07787906,"TCC"
-"116","Phase 2","advanced blend loops",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.203143109589616,12964.0914,1.19758175,"TCC"
-"117","Phase 1","conventional control loop",2017-11-16,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.344181530554989,13208.7185,1.00922035,"TCC"
-"119","Phase 1","transition loops (Phase 1)",2017-11-02,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.29388240360508,13912.6782,1.03939202,"TCC"
-"120","Phase 2","conventional control loop",2018-02-26,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.153025524639291,14029.2247,1.18502666,"TCC"
-"122","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_331","DWDS_F",NA,0.676643212484843,14515.393,1.04464902,"TCC"
-"123","Phase 1","conventional control loop",2018-01-05,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.494454308082685,14682.7161,1.05017366,"TCC"
-"125","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.377010592134885,14949.6208,1.07316263,"TCC"
-"126","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.402568831423881,15741.2587,1.04754809,"TCC"
-"127","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.0498650974049001,15996.4899,1.05283734,"TCC"
-"128","NA","full-scale
-distribution system
-",2018-02-14,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.341117660762702,16345.738,1.11388937,"TCC"
-"129","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.371887112951476,16707.2204,1.03426061,"TCC"
-"130","Phase 2","conventional control loop",2018-01-15,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.449149158456475,16736.9002,1.00919911,"TCC"
-"132","Phase 1","conventional control loop",2017-11-13,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.514224044692289,16893.0438,1.03385578,"TCC"
-"134","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.276634664220929,17120.1811,1.18812653,"TCC"
-"135","Phase 1","conventional control loop",2017-11-20,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.517447450231728,17147.9681,1.13247888,"TCC"
-"136","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_67","DWDS_F",NA,0.834209215933094,17218.9553,1.03512784,"TCC"
-"138","Phase 2","advanced blend loops",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.539250693507462,17491.881,1.13280037,"TCC"
-"140","Phase 2","conventional control loop",2018-01-18,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.390449966791049,18105.6606,1.03259753,"TCC"
-"141","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_229","DWDS_F",NA,0.274712365294054,18754.7865,1.03899111,"TCC"
-"145","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.254793325359393,19066.8603,1.45531692,"TCC"
-"146","Phase 2","advanced blend loops",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.234548734169135,19448.9609,1.01078347,"TCC"
-"147","Phase 1","conventional control loop",2017-11-09,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.280543095095854,19517.6721,1.02113058,"TCC"
-"148","Phase 2","advanced blend loops",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.342931241821767,20277.3028,1.04228419,"TCC"
-"149","Phase 2","conventional control loop",2018-03-19,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.174315930353321,20299.6728,1.95176748,"TCC"
-"150","NA","full-scale
-distribution system
-",2018-03-01,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.755064400509608,20318.9153,1.04716827,"TCC"
-"152","Phase 2","conventional control loop",2018-02-15,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.149498650494616,21295.8024,1.02744675,"TCC"
-"153","Phase 1","conventional feedwater",2017-11-06,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.289936637578488,21729.7093,1.04686683,"TCC"
-"156","Phase 2","advanced blend loops",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.261483656581346,22024.3272,1.21776117,"TCC"
-"157","Phase 2","transition loops (Phase 2)",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.419041658363299,22228.4321,1.18563968,"TCC"
-"158","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.0272139520692191,22579.4694,1.12667644,"TCC"
-"159","Phase 1","conventional feedwater",2017-12-18,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.144131469007235,22607.9261,1.0782092,"TCC"
-"160","Phase 1","conventional feedwater",2017-12-04,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.163835242525387,22952.9641,1.08238223,"TCC"
-"161","Phase 2","advanced blend loops",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.111402809697505,23065.5862,1.05308585,"TCC"
-"162","Phase 2","conventional feedwater",2018-03-19,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.081609350088145,23466.1745,1.49334628,"TCC"
-"163","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.0948275826667053,23912.5987,1.11245634,"TCC"
-"164","NA","full-scale
-distribution system
-",2018-03-01,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.880199437486835,24340.4792,1.15417732,"TCC"
-"165","Phase 1","conventional feedwater",2017-11-02,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.323325232603752,25093.5011,1.01808233,"TCC"
-"166","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.353758192648918,25320.2294,1.0406493,"TCC"
-"167","Phase 1","conventional control loop",2017-12-29,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.298300457539168,25473.0323,1.04964489,"TCC"
-"168","Phase 2","advanced blend loops",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.260012666807765,25937.0795,1.19107729,"TCC"
-"169","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_270A","DWDS_F",NA,0.0659442813393587,26105.1537,1.08327559,"TCC"
-"170","Phase 2","conventional control loop",2018-01-12,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.403447807894284,26545.4465,1.02973355,"TCC"
-"172","Phase 2","advanced blend loops",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.394487221129503,27193.7336,1.04986019,"TCC"
-"173","Phase 1","transition loops (Phase 1)",2017-11-09,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.252674060774657,27482.9094,1.00961582,"TCC"
-"174","Phase 2","advanced blend loops",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0690490467828351,27743.573,1.03033903,"TCC"
-"175","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_223","DWDS_F",NA,0.0309897756353449,27844.0871,1.11085111,"TCC"
-"176","NA","full-scale
-distribution system
-",2018-04-26,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.76743533484718,27884.377,1.04617258,"TCC"
-"178","Phase 1","transition loops (Phase 1)",2017-11-13,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.45426465350578,28019.9364,1.0480939,"TCC"
-"179","Phase 1","conventional control loop",2017-11-27,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.587968776003053,28500.259,1.01191179,"TCC"
-"183","Phase 1","advanced blend loops",2017-11-27,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0169444671742047,30129.369,1.03516227,"TCC"
-"184","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.42001755839555,30299.6933,1.02456594,"TCC"
-"185","Phase 1","advanced blend loops",2017-12-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.065885142535081,30860.6167,1.15273987,"TCC"
-"187","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_225","DWDS_F",NA,0.652315372146997,31837.6854,1.01688747,"TCC"
-"188","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.382490639663193,32196.4109,1.07158395,"TCC"
-"191","Phase 1","conventional control loop",2017-12-18,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.354843288316402,33176.5021,1.02184659,"TCC"
-"192","Phase 1","advanced blend loops",2017-12-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0150829706427913,33515.9691,1.0067702,"TCC"
-"193","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.278961930409518,33873.0489,1.03454402,"TCC"
-"194","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.231859187992008,34029.1774,1.04760922,"TCC"
-"195","Phase 2","transition loops (Phase 2)",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.574057437145763,34458.2617,1.05800672,"TCC"
-"196","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_67","DWDS_F",NA,0.468656174306063,35141.7265,1.25893202,"TCC"
-"197","Phase 2","transition loops (Phase 2)",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0599667721388285,35373.5678,1.01428248,"TCC"
-"199","Phase 2","transition loops (Phase 2)",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.212029169615273,35881.5017,1.09673927,"TCC"
-"200","Phase 2","advanced blend loops",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0333418679045193,36064.6903,1.01675269,"TCC"
-"201","Phase 2","transition loops (Phase 2)",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.100806993049146,37120.5056,1.02105557,"TCC"
-"204","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.3524734830964,39463.3746,1.05233761,"TCC"
-"205","Phase 1","transition loops (Phase 1)",2017-11-16,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.459277356886542,39652.63,1.03500906,"TCC"
-"206","Phase 1","transition loops (Phase 1)",2017-11-20,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.53879093198931,41010.2869,1.0414559,"TCC"
-"207","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.466103316335701,41727.38,1.01070767,"TCC"
-"209","Phase 2","advanced blend loops",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.145425964472372,43599.4941,1.01340184,"TCC"
-"211","Phase 1","advanced blend loops",2017-11-02,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0444119325590899,44835.5693,1.02624838,"TCC"
-"212","Phase 2","advanced blend loops",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.131625964970284,45137.0376,1.01337233,"TCC"
-"214","Phase 1","advanced blend loops",2017-12-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0199037443033159,45960.3551,1.01025286,"TCC"
-"215","Phase 2","advanced blend loops",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.45561732626926,46097.0696,1.14929529,"TCC"
-"216","Phase 1","advanced blend loops",2017-12-14,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0310673168585357,47014.3478,1.0372288,"TCC"
-"217","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_237","DWDS_F",NA,0.76260069709959,47282.2829,1.05191334,"TCC"
-"218","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.315302924369495,47340.1464,1.01355668,"TCC"
-"219","Phase 2","advanced blend loops",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0532846387760673,49036.4865,1.02928428,"TCC"
-"220","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.103860802807403,49603.9372,1.1344815,"TCC"
-"221","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_289","DWDS_F",NA,0.800436956488506,49792.9212,1.05410012,"TCC"
-"222","Phase 1","conventional control loop",2017-12-14,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.444254741626747,50239.8676,1.08208412,"TCC"
-"223","Phase 1","advanced blend loops",2017-11-20,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0673512257812046,50641.8354,1.01173744,"TCC"
-"224","Phase 1","advanced blend loops",2017-12-14,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0336597867057075,50765.259,1.00995795,"TCC"
-"225","NA","full-scale
-distribution system
-",2018-04-26,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.77303922380138,51441.2252,1.02473728,"TCC"
-"226","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.390964757428214,51616.5821,1.03270729,"TCC"
-"228","Phase 1","advanced blend loops",2017-11-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0482556729025226,52214.7567,1.01758268,"TCC"
-"229","Phase 1","advanced blend loops",2017-11-02,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0512398784555874,52340.703,1.00801166,"TCC"
-"230","Phase 2","advanced blend loops",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0449181807604605,53416.715,1.02980228,"TCC"
-"231","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.862781358682364,55023.7907,1.02161186,"TCC"
-"232","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0307800573328655,55720.571,1.05894202,"TCC"
-"235","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0679387564768266,56063.4892,1.06520544,"TCC"
-"236","Phase 1","transition loops (Phase 1)",2017-11-27,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.746138775810268,57718.2492,1.03708752,"TCC"
-"237","Phase 2","transition loops (Phase 2)",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0538363621173861,58022.2834,1.02273893,"TCC"
-"238","Phase 2","transition loops (Phase 2)",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.10490303711151,58249.1981,1.25805987,"TCC"
-"240","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.125344600071011,59596.7013,1.01653999,"TCC"
-"241","Phase 1","conventional feedwater",2017-11-13,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.44946462558705,60520.3372,1.0124331,"TCC"
-"245","NA","full-scale
-distribution system
-",2018-02-16,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.0754042214444326,65658.4599,1.01942115,"TCC"
-"246","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.036983480216535,65939.6597,1.03915873,"TCC"
-"247","Phase 2","transition loops (Phase 2)",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0766639478260021,65948.5747,1.02219364,"TCC"
-"248","Phase 1","conventional control loop",2017-12-07,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.64376685694928,66199.1818,1.00648271,"TCC"
-"249","Phase 1","advanced blend loops",2017-11-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0338686571734537,67747.3969,1.02398217,"TCC"
-"250","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.756979167695256,69320.2465,1.00434218,"TCC"
-"251","NA","full-scale
-distribution system
-",2018-03-28,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.0194506033312771,69384.021,1.07519851,"TCC"
-"252","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.769265271793251,69585.9129,1.03468551,"TCC"
-"253","Phase 1","advanced blend loops",2017-11-16,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0760519296702565,70534.3281,1.0218485,"TCC"
-"254","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.05761039784616,71641.2369,1.0453903,"TCC"
-"255","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.916431560135696,72556.5765,1.13367213,"TCC"
-"256","NA","full-scale
-distribution system
-",2018-03-22,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.807469212537411,73447.8765,1.02447216,"TCC"
-"257","Phase 1","transition loops (Phase 1)",2017-12-14,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.464579208062399,74393.4976,1.03796697,"TCC"
-"258","Phase 2","transition loops (Phase 2)",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0493895274255365,74419.9607,1.03138887,"TCC"
-"259","Phase 2","advanced blend loops",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0208233146931951,74432.4236,1.02537291,"TCC"
-"261","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_261","DWDS_F",NA,0.710498277914588,75677.8956,1.0361422,"TCC"
-"264","Phase 2","transition loops (Phase 2)",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.313303707620058,77011.9067,1.59171306,"TCC"
-"265","Phase 2","transition loops (Phase 2)",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0670292895033571,77563.0871,1.01748532,"TCC"
-"266","NA","full-scale
-distribution system
-",2018-02-14,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.0540699668471189,81281.5331,1.06722744,"TCC"
-"267","Phase 1","advanced feedwater",2017-11-20,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.823005355187551,82077.6669,1.0513011,"TCC"
-"268","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_304","DWDS_F",NA,0.489422520977828,82416.1124,1.04094098,"TCC"
-"272","NA","full-scale
-distribution system
-",2018-03-28,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.162789743620283,84364.5754,1.42793367,"TCC"
-"273","Phase 2","advanced feedwater",2018-02-15,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",NA,NA,1.03358073,"TCC"
-"274","Phase 1","advanced blend loops",2018-01-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00757135642295858,84765.4843,1.01095147,"TCC"
-"276","Phase 1","advanced blend loops",2017-12-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0075760300047821,86456.9918,1.05925335,"TCC"
-"279","Phase 2","transition loops (Phase 2)",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.0246324342090365,92240.3576,1.11713928,"TCC"
-"280","Phase 2","advanced blend loops",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.67372598321356,94829.5531,1.04554043,"TCC"
-"281","NA","full-scale
-distribution system
-",2018-03-28,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.0928026848701362,95002.2262,1.04514363,"TCC"
-"282","Phase 2","advanced blend loops",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00666257466802546,96037.259,1.0357167,"TCC"
-"283","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_261","DWDS_F",NA,0.332592922069835,96069.8063,1.02266434,"TCC"
-"284","Phase 1","transition loops (Phase 1)",2017-12-07,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.743460288556929,96207.8649,1.01664839,"TCC"
-"286","Phase 1","advanced blend loops",2017-11-13,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0414344338089573,97578.354,1.01713969,"TCC"
-"289","Phase 2","advanced blend loops",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0237208253963591,103745.454,1.04043676,"TCC"
-"290","Phase 1","advanced blend loops",2017-12-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0151940632798878,107265.424,1.02999276,"TCC"
-"291","Phase 1","conventional control loop",2017-12-04,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.605766065477044,107419.297,1.00747515,"TCC"
-"293","Phase 1","advanced blend loops",2018-01-01,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00809488146779641,109523.527,1.06704691,"TCC"
-"295","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.508367437456449,111021.278,1.02999553,"TCC"
-"298","Phase 1","advanced blend loops",2017-12-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0543455964716914,114278.441,1.02116142,"TCC"
-"299","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0191468716429866,116307.809,1.1505636,"TCC"
-"300","Phase 2","advanced blend loops",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00877294480143662,116666.732,1.01548305,"TCC"
-"301","Phase 2","advanced blend loops",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.018521181816325,118434.343,1.02690165,"TCC"
-"304","Phase 1","conventional feedwater",2017-11-16,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.255481183207598,122844.343,1.2046931,"TCC"
-"306","Phase 2","advanced blend loops",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.137872285852795,124042.922,1.64895943,"TCC"
-"307","Phase 2","advanced blend loops",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0506397618429043,124110.012,1.01403929,"TCC"
-"309","Phase 2","advanced blend loops",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0664034657461304,125807.83,1.77310927,"TCC"
-"310","Phase 1","advanced blend loops",2017-12-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0127546233058732,126444.857,1.01830087,"TCC"
-"311","Phase 2","transition loops (Phase 2)",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0159091759413336,126754.058,1.02189434,"TCC"
-"312","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_325","DWDS_F",NA,0.828059688516292,126798.863,1.01822596,"TCC"
-"319","Phase 1","advanced blend loops",2018-01-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00681435329433114,133130.803,1.01531772,"TCC"
-"320","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_329","DWDS_F",NA,0.830138250116931,133709.037,1.02791841,"TCC"
-"321","Phase 2","transition loops (Phase 2)",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0259775838812861,135633.65,1.09026468,"TCC"
-"323","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_226","DWDS_F",NA,0.806537652744238,135659.209,1.01591885,"TCC"
-"325","Phase 1","transition loops (Phase 1)",2017-12-04,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.742507652448817,137742.509,1.00734168,"TCC"
-"327","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_261","DWDS_F",NA,0.460571322865195,139989.041,1.01834395,"TCC"
-"329","Phase 1","transition loops (Phase 1)",2017-12-07,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.737798665970222,142782.42,1.00613717,"TCC"
-"330","Phase 1","advanced blend loops",2018-01-01,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0151322689871126,142926.55,1.05896877,"TCC"
-"331","Phase 2","advanced blend loops",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00431712273247744,143696.586,1.04591038,"TCC"
-"332","Phase 1","advanced blend loops",2017-12-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00732179734973133,143901.788,1.01119442,"TCC"
-"333","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_307","DWDS_F",NA,0.917434292607268,145459.736,1.02086846,"TCC"
-"334","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.65588567591803,146665.092,1.03092739,"TCC"
-"339","Phase 1","advanced blend loops",2017-11-27,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00533789488916033,155401.803,1.00844003,"TCC"
-"347","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.628862838244084,161865.987,1.02542511,"TCC"
-"348","Phase 1","transition loops (Phase 1)",2017-11-27,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.993575739074324,163531.963,1.01467068,"TCC"
-"349","Phase 1","advanced blend loops",2017-11-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0448888661783092,165365.905,1.00130013,"TCC"
-"351","Phase 2","transition loops (Phase 2)",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.016153746729553,167943.787,1.04497094,"TCC"
-"355","Phase 2","advanced blend loops",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.0079997678389498,172845.531,1.0179666,"TCC"
-"357","Phase 1","advanced feedwater",2017-11-06,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.772732651551476,175266.422,1.05426511,"TCC"
-"359","Phase 1","advanced feedwater",2017-11-09,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.954846483480652,180436.445,1.06134122,"TCC"
-"360","Phase 2","advanced feedwater",2018-01-31,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.760568317078893,182384.313,1.04648298,"TCC"
-"364","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.00778278570426292,185334.634,1.14895924,"TCC"
-"366","Phase 2","transition loops (Phase 2)",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0129294593474813,190710.385,1.10626583,"TCC"
-"367","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.00916965571643199,191540.248,1.04029845,"TCC"
-"372","Phase 2","advanced blend loops",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00919466188616436,211387.549,1.04718498,"TCC"
-"375","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_237","DWDS_F",NA,0.0161199340659216,216377.939,1.02272177,"TCC"
-"376","Phase 1","advanced feedwater",2017-11-27,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.743609842930073,217607.601,1.09527776,"TCC"
-"377","Phase 2","advanced blend loops",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0064660646230928,217764.415,1.01547442,"TCC"
-"380","Phase 2","advanced blend loops",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0119887950388989,227042.823,1.05022322,"TCC"
-"381","Phase 2","transition loops (Phase 2)",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0182937928386859,228306.198,1.03616075,"TCC"
-"388","Phase 2","advanced blend loops",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0162376120636752,240206.07,1.03494594,"TCC"
-"389","Phase 2","advanced blend loops",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.0110936985454221,243084.542,1.0169327,"TCC"
-"390","Phase 1","advanced feedwater",2017-10-23,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.92831506257758,243969.565,1.03948764,"TCC"
-"391","Phase 2","transition loops (Phase 2)",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.0275413803846057,249627.936,1.17414634,"TCC"
-"392","Phase 1","conventional feedwater",2017-10-23,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.60850967880874,250758.442,1.04609562,"TCC"
-"393","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_67","DWDS_F",NA,0.00602671361012661,253031.768,1.074908,"TCC"
-"396","Phase 2","advanced blend loops",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0106185918523717,258000.747,1.18117533,"TCC"
-"399","Phase 1","conventional feedwater",2017-11-20,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.487333985171594,268930.721,1.00633102,"TCC"
-"401","Phase 1","advanced feedwater",2017-12-04,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.703670486393623,271910.884,1.16435701,"TCC"
-"404","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0132179750706236,279140.155,1.04962803,"TCC"
-"405","Phase 1","advanced feedwater",2017-11-02,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.394252094661577,283508.566,1.42291227,"TCC"
-"406","Phase 2","advanced feedwater",2018-01-29,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.743601859289862,283673.036,1.07164221,"TCC"
-"409","Phase 2","advanced blend loops",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0164608843437199,296298.774,1.00835057,"TCC"
-"410","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.00394647686955131,296814.627,1.0138563,"TCC"
-"411","Phase 1","advanced feedwater",2017-12-11,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.706886058061637,302972.685,1.01883069,"TCC"
-"412","Phase 1","transition loops (Phase 1)",2017-12-14,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.219996320536189,304419.355,1.0367563,"TCC"
-"417","Phase 1","advanced blend loops",2017-12-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0841092470693627,330870.093,1.00830437,"TCC"
-"418","Phase 1","conventional feedwater",2017-11-27,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.327292505787822,340327.047,1.0060002,"TCC"
-"419","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.0828621736818321,343365.459,1.08638867,"TCC"
-"420","Phase 2","advanced blend loops",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0019597211562833,356691.272,1.06394637,"TCC"
-"421","Phase 2","transition loops (Phase 2)",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0159544341869017,361277.126,1.04159065,"TCC"
-"423","Phase 2","advanced blend loops",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0042547717073555,391940.004,1.02761264,"TCC"
-"424","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.980127333877791,408433.018,1.09039337,"TCC"
-"427","Phase 1","advanced feedwater",2017-11-13,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.886813341469263,446740.991,1.01448881,"TCC"
-"431","Phase 1","advanced feedwater",2017-12-18,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.275494015227956,478521.484,1.06393778,"TCC"
-"432","Phase 2","advanced feedwater",2018-02-04,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.891839183209435,485197.769,1.04258614,"TCC"
-"433","Phase 1","advanced blend loops",2017-11-13,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00606989187613342,487089.314,1.00994161,"TCC"
-"434","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.85276004842433,490541.013,1.04786243,"TCC"
-"437","Phase 2","advanced blend loops",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.0011336974986285,512257.856,1.04149467,"TCC"
-"438","Phase 2","advanced feedwater",2018-01-05,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.357789076584519,518499.787,1.03789344,"TCC"
-"439","Phase 2","advanced feedwater",2018-01-15,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.951998927464719,529235.737,1.06201309,"TCC"
-"443","Phase 1","advanced blend loops",2017-12-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00936822968700811,600851.468,1.02382772,"TCC"
-"445","Phase 2","advanced feedwater",2018-03-12,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.828758257640364,611179.287,1.00335435,"TCC"
-"446","Phase 1","conventional feedwater",2017-12-07,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.0780396485619239,622548.935,1.02402582,"TCC"
-"447","Phase 2","advanced blend loops",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.00169833364552059,643438.604,1.0272374,"TCC"
-"448","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.896445903169597,683431.464,1.00595343,"TCC"
-"449","Phase 1","advanced feedwater",2018-01-01,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.903317328404931,684762.201,1.03397651,"TCC"
-"451","Phase 2","advanced feedwater",2018-03-05,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.889757019245831,734746.67,1.02889093,"TCC"
-"456","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.898241642021545,814875.934,1.00704542,"TCC"
-"457","Phase 1","advanced blend loops",2017-11-20,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00606840706041491,817996.12,1.01132869,"TCC"
-"458","Phase 1","advanced blend loops",2017-11-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0161698781298478,841062.214,1.00484066,"TCC"
-"465","Phase 2","advanced blend loops",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.00346348634289519,997913.408,1.03966097,"TCC"
-"468","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.864682333693992,1113831.38,1.09206925,"TCC"
-"469","Phase 2","advanced feedwater",2018-03-19,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.719302415859772,1115593.31,1.0524819,"TCC"
-"470","Phase 1","advanced blend loops",2017-11-16,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00852804218196692,1305479.19,1.00706718,"TCC"
-"475","Phase 2","advanced feedwater",2018-01-08,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.982621275043871,2047544.92,1.0567129,"TCC"
-"476","Phase 2","advanced feedwater",2018-02-19,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.891600623499249,2664952.69,1.02457264,"TCC"
-"492","NA","RO permeate",2017-08-01,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.247225361192107,43.7864197,1.12458476,"ICC"
-"493","NA","RO permeate",2017-11-07,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.61569747713234,64.583098,1.35096247,"ICC"
-"494","NA","RO permeate",2017-12-14,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.714069818621269,69.8006988,1.2131497,"ICC"
-"496","NA","RO permeate",2017-10-10,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.627181487466165,89.318747,1.15307513,"ICC"
-"497","NA","RO permeate",2017-10-10,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.935399072540242,93.7432574,1.96103348,"ICC"
-"500","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_283","DWDS_F",NA,0.223308579375965,118.352939,1.18362468,"ICC"
-"501","NA","RO permeate",2017-11-14,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.685465800213059,119.663342,1.08703375,"ICC"
-"502","NA","RO permeate",2017-09-21,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.413193793442781,142.579351,1.12744867,"ICC"
-"503","NA","RO permeate",2017-11-14,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.629416738821656,152.972293,1.07990936,"ICC"
-"504","NA","RO permeate",2017-12-14,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.61042576388419,163.382171,1.10255908,"ICC"
-"505","NA","RO permeate",2017-09-21,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.366123238610396,168.229726,1.25573249,"ICC"
-"511","Phase 2","transition loops (Phase 2)",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",NA,NA,1.43234572,"ICC"
-"512","Phase 2","conventional feedwater",2018-02-19,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.130004710024868,304.366745,1.53208302,"ICC"
-"514","NA","RO permeate",2017-09-14,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.329307052553476,322.78772,1.0715825,"ICC"
-"515","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_225","DWDS_F",NA,0.273212544919447,323.35288,1.16688904,"ICC"
-"519","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_340","DWDS_F",NA,1.08738037441933,380.255412,1.26695759,"ICC"
-"520","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_331","DWDS_F",NA,0.306403182329816,410.529239,1.27577843,"ICC"
-"521","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_307","DWDS_F",NA,0.180465730174821,490.668207,1.24457552,"ICC"
-"522","Phase 2","conventional feedwater",2018-01-05,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.191875636497837,490.978338,1.24866199,"ICC"
-"523","Phase 2","conventional feedwater",2018-03-22,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.393056313967474,498.748296,1.37029686,"ICC"
-"524","Phase 1","advanced blend loops",2017-12-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0150829706427913,505.520378,1.30316756,"ICC"
-"525","Phase 1","advanced blend loops",2017-11-27,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0169444671742047,510.526104,1.11662016,"ICC"
-"526","Phase 2","conventional feedwater",2018-01-12,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.152794881220271,519.698797,1.40464086,"ICC"
-"527","Phase 2","advanced blend loops",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.0011336974986285,580.74545,1.15145381,"ICC"
-"529","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.0272139520692191,614.476598,1.2319285,"ICC"
-"530","Phase 2","advanced blend loops",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00431712273247744,620.355798,1.17233423,"ICC"
-"532","Phase 2","advanced blend loops",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00666257466802546,639.855409,1.4743188,"ICC"
-"533","Phase 1","advanced blend loops",2018-01-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00757135642295858,641.789694,1.12796674,"ICC"
-"534","Phase 1","advanced blend loops",2017-12-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0075760300047821,655.000764,1.12941357,"ICC"
-"535","Phase 2","advanced blend loops",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0019597211562833,699.015432,1.38562523,"ICC"
-"536","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_329","DWDS_F",NA,0.159296562318223,737.852224,1.02788492,"ICC"
-"537","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_226","DWDS_F",NA,0.353585282510469,772.935695,1.5713757,"ICC"
-"538","Phase 2","conventional control loop",2018-02-19,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.0498650974049001,797.666527,1.31938262,"ICC"
-"540","Phase 1","advanced blend loops",2017-11-27,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00533789488916033,829.51849,1.06268808,"ICC"
-"541","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_223","DWDS_F",NA,0.0309897756353449,862.882012,1.18545664,"ICC"
-"542","Phase 1","advanced blend loops",2018-01-01,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00809488146779641,886.579969,1.1317614,"ICC"
-"543","Phase 1","transition loops (Phase 1)",2017-11-09,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.0854772516433863,893.507157,1.17222353,"ICC"
-"545","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_325","DWDS_F",NA,0.142866240837485,904.647251,1.16732223,"ICC"
-"546","Phase 1","advanced blend loops",2018-01-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00681435329433114,907.200326,1.1926691,"ICC"
-"547","Phase 1","advanced blend loops",2017-12-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0199037443033159,914.783156,1.18902974,"ICC"
-"548","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_63A","DWDS_F",NA,0.241602033487843,915.757379,1.0678242,"ICC"
-"549","Phase 2","conventional feedwater",2018-03-05,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",NA,NA,1.26376504,"ICC"
-"550","NA","full-scale
-distribution system
-",2018-03-22,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.464752496364404,965.152448,1.22758174,"ICC"
-"551","NA","full-scale
-distribution system
-",2018-04-19,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.394750487078425,975.749966,1.32175849,"ICC"
-"553","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_340","DWDS_F",NA,0.0888920141785319,1022.74018,1.30016051,"ICC"
-"554","Phase 2","advanced blend loops",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00877294480143662,1023.5108,1.32276344,"ICC"
-"555","NA","full-scale
-distribution system
-",2018-03-01,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.651943756155594,1051.10492,1.09016841,"ICC"
-"556","Phase 1","advanced blend loops",2017-12-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.00732179734973133,1053.61973,1.19822418,"ICC"
-"557","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_63A","DWDS_F",NA,0.211419863661996,1055.8457,1.17852079,"ICC"
-"558","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.177776457961498,1067.13649,1.12170589,"ICC"
-"559","NA","RO permeate",2017-09-26,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.568669094440322,1080.54859,1.03011575,"ICC"
-"560","Phase 2","advanced blend loops",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.00169833364552059,1092.77343,1.12536672,"ICC"
-"561","NA","RO permeate",2017-09-14,"not applicable","bulkwater_grab","RO_2stage","AWTP_2",NA,0.59581237790208,1100.81689,1.09281087,"ICC"
-"563","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.00394647686955131,1171.37206,1.18142654,"ICC"
-"564","Phase 2","advanced blend loops",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0333418679045193,1202.46414,1.20737505,"ICC"
-"566","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_224","DWDS_F",NA,0.196184095518347,1273.26552,1.12051761,"ICC"
-"567","Phase 1","conventional feedwater",2018-01-01,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.407847415550264,1313.49361,1.26226878,"ICC"
-"568","NA","full-scale
-distribution system
-",2018-03-28,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.0194506033312771,1349.56107,1.11372509,"ICC"
-"570","Phase 2","advanced blend loops",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.0079997678389498,1382.72412,1.14808907,"ICC"
-"571","Phase 2","advanced blend loops",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0064660646230928,1408.07878,1.15226422,"ICC"
-"573","Phase 2","conventional feedwater",2018-01-31,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.537085482255691,1441.43556,1.14031921,"ICC"
-"574","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.00778278570426292,1442.41974,1.06978882,"ICC"
-"575","Phase 1","advanced blend loops",2017-12-14,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0310673168585357,1460.60964,1.1405601,"ICC"
-"576","NA","full-scale
-distribution system
-",2018-02-07,"not applicable","bulkwater_grab","DWDS_224","DWDS_F",NA,0.401851671864679,1473.93325,1.19944209,"ICC"
-"577","Phase 1","transition loops (Phase 1)",2017-11-06,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.250164712032404,1474.09078,1.14050313,"ICC"
-"578","Phase 1","transition loops (Phase 1)",2017-11-02,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.269937493595038,1486.77219,1.20762073,"ICC"
-"580","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_279","DWDS_F",NA,0.22390963965652,1520.7988,2.07040317,"ICC"
-"581","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_67","DWDS_F",NA,0.00602671361012661,1524.95,1.11614002,"ICC"
-"582","Phase 2","advanced blend loops",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0208233146931951,1549.92978,1.05601069,"ICC"
-"583","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_229","DWDS_F",NA,0.712804321503905,1553.84373,1.19093204,"ICC"
-"584","Phase 1","conventional feedwater",2017-12-29,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.331601543830025,1594.65924,1.25807125,"ICC"
-"585","Phase 1","advanced blend loops",2017-12-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0127546233058732,1612.75652,1.13946248,"ICC"
-"586","Phase 1","transition loops (Phase 1)",2017-11-13,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.244002519770621,1615.05251,1.02488253,"ICC"
-"587","Phase 2","transition loops (Phase 2)",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.140344958227116,1616.12509,1.47820054,"ICC"
-"588","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_223","DWDS_F",NA,0.19540252076963,1628.84707,1.10438351,"ICC"
-"589","Phase 1","advanced blend loops",2017-12-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0151940632798878,1629.79764,1.22960065,"ICC"
-"590","Phase 2","conventional control loop",2018-03-05,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.277582693092601,1660.10691,1.11413129,"ICC"
-"591","Phase 2","advanced blend loops",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0042547717073555,1667.61524,1.12139141,"ICC"
-"592","Phase 1","advanced blend loops",2017-12-14,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0336597867057075,1708.74779,1.08285387,"ICC"
-"593","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0307800573328655,1715.08237,1.1759236,"ICC"
-"594","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_270A","DWDS_F",NA,0.0659442813393587,1721.4856,1.14025872,"ICC"
-"595","Phase 2","transition loops (Phase 2)",2018-01-18,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.00916965571643199,1756.35813,1.10100807,"ICC"
-"597","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.260392743961582,1859.73494,1.14239245,"ICC"
-"598","Phase 2","conventional feedwater",2018-03-19,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.081609350088145,1915.05925,1.54441254,"ICC"
-"599","Phase 2","advanced blend loops",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0690490467828351,1915.66727,1.2019308,"ICC"
-"600","Phase 2","advanced blend loops",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00919466188616436,1943.63704,1.08437699,"ICC"
-"601","Phase 1","advanced blend loops",2017-11-02,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0444119325590899,1991.23428,1.12954394,"ICC"
-"602","Phase 2","conventional feedwater",2018-01-29,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.477361234839918,2005.2606,1.07657678,"ICC"
-"603","Phase 2","transition loops (Phase 2)",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0159091759413336,2016.55261,1.25974544,"ICC"
-"604","Phase 1","advanced blend loops",2017-12-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.065885142535081,2033.25613,1.07205213,"ICC"
-"605","Phase 2","conventional feedwater",2018-03-12,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.459581505948314,2053.22521,1.31587836,"ICC"
-"606","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_279","DWDS_F",NA,0.881221630465092,2074.21097,1.03976109,"ICC"
-"608","Phase 2","transition loops (Phase 2)",2018-01-29,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0599667721388285,2121.23868,1.18854312,"ICC"
-"609","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_179","DWDS_F",NA,0.603142095224262,2139.40418,1.02321513,"ICC"
-"610","Phase 2","conventional control loop",2018-02-26,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.153025524639291,2146.82947,1.36383264,"ICC"
-"611","Phase 1","transition loops (Phase 1)",2017-11-16,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.180520984931437,2149.20849,1.1524749,"ICC"
-"613","Phase 1","advanced blend loops",2018-01-01,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0151322689871126,2162.803,1.1383859,"ICC"
-"614","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.79262753530717,2171.19789,1.13414797,"ICC"
-"615","Phase 2","advanced blend loops",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.018521181816325,2193.544,1,"ICC"
-"616","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0191468716429866,2226.93069,1.10758688,"ICC"
-"617","NA","RO permeate",2017-09-26,"not applicable","bulkwater_grab","RO_3stage","AWTP_2",NA,0.836765773693839,2243.92707,1.01958845,"ICC"
-"618","Phase 1","conventional feedwater",2017-12-14,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.0948275826667053,2267.57393,1.0779665,"ICC"
-"620","Phase 2","transition loops (Phase 2)",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.0246324342090365,2272.10454,1.10413091,"ICC"
-"621","Phase 2","conventional feedwater",2018-01-08,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.424254346307582,2274.46172,1.17821249,"ICC"
-"622","Phase 1","advanced blend loops",2017-11-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0338686571734537,2294.51336,1.11070984,"ICC"
-"623","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_179","DWDS_F",NA,0.258977338850444,2326.73918,1.039756,"ICC"
-"624","Phase 2","advanced blend loops",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0449181807604605,2399.38166,1.02805107,"ICC"
-"625","Phase 2","transition loops (Phase 2)",2018-01-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.036983480216535,2438.6781,1.08190677,"ICC"
-"626","Phase 2","advanced blend loops",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0237208253963591,2460.9278,1.16605835,"ICC"
-"627","Phase 2","transition loops (Phase 2)",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0129294593474813,2465.78217,1.19890838,"ICC"
-"630","Phase 1","advanced blend loops",2017-11-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0482556729025226,2519.65822,1.05574548,"ICC"
-"631","NA","full-scale
-distribution system
-",2018-04-19,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.924501245052924,2540.94492,1.27050193,"ICC"
-"632","Phase 1","conventional control loop",2017-11-06,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.42993069046322,2557.07872,1.07543952,"ICC"
-"633","Phase 2","advanced blend loops",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.111402809697505,2569.57111,1.30804699,"ICC"
-"634","Phase 2","advanced blend loops",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0532846387760673,2612.89147,1.05891482,"ICC"
-"635","Phase 2","advanced blend loops",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.203143109589616,2633.56584,1.0314022,"ICC"
-"636","Phase 1","advanced blend loops",2017-11-02,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0512398784555874,2681.93126,1.13425122,"ICC"
-"637","Phase 2","advanced blend loops",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.0110936985454221,2696.70663,1.09954273,"ICC"
-"638","Phase 2","transition loops (Phase 2)",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.016153746729553,2712.9214,1.17926239,"ICC"
-"639","Phase 2","advanced blend loops",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0119887950388989,2721.96987,1.0473054,"ICC"
-"640","Phase 2","advanced blend loops",2018-01-10,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0106185918523717,2739.60463,1.18617767,"ICC"
-"642","Phase 2","conventional control loop",2018-03-12,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.572024591766362,2839.3745,1.26404124,"ICC"
-"643","Phase 1","transition loops (Phase 1)",2017-11-06,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.342920524749337,2888.84797,1.05923894,"ICC"
-"646","Phase 1","advanced blend loops",2017-11-13,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00606989187613342,2956.57947,1.09562096,"ICC"
-"648","Phase 2","conventional control loop",2018-01-29,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.354832374924814,3010.37027,1.1504633,"ICC"
-"649","NA","full-scale
-distribution system
-",2018-04-26,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.64686224972746,3026.38974,1.2502573,"ICC"
-"651","Phase 2","transition loops (Phase 2)",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0538363621173861,3123.70866,1.15508795,"ICC"
-"653","Phase 2","conventional control loop",2018-02-15,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.149498650494616,3183.69372,1.39922973,"ICC"
-"654","Phase 2","transition loops (Phase 2)",2018-02-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.615411867290398,3200.30008,1.06290336,"ICC"
-"655","Phase 1","conventional feedwater",2017-12-18,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.144131469007235,3258.5136,1.11538383,"ICC"
-"656","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_283","DWDS_F",NA,0.610818395030006,3302.21334,1.10974147,"ICC"
-"657","Phase 1","conventional control loop",2017-11-02,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.293168389657136,3314.3298,1.04511553,"ICC"
-"658","Phase 2","conventional feedwater",2018-03-01,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.276819172570258,3362.76836,1.25546698,"ICC"
-"659","Phase 1","transition loops (Phase 1)",2017-11-20,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.442880091371357,3385.46337,1.04316221,"ICC"
-"660","Phase 1","advanced blend loops",2017-11-20,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0673512257812046,3410.78969,1.20084238,"ICC"
-"661","Phase 2","conventional feedwater",2018-04-26,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F",NA,1.03189246969211,3419.71544,1.65069812,"ICC"
-"662","Phase 2","advanced blend loops",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Between_Batch",0.00346348634289519,3456.25946,1.04786764,"ICC"
-"663","Phase 2","conventional control loop",2018-03-26,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.267516778633414,3462.63146,1.50766207,"ICC"
-"665","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_237","DWDS_F",NA,0.0161199340659216,3487.99811,1.0449782,"ICC"
-"666","Phase 2","transition loops (Phase 2)",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0259775838812861,3523.43452,1.13169692,"ICC"
-"667","Phase 2","conventional control loop",2018-03-19,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.174315930353321,3538.55635,2.37459703,"ICC"
-"669","Phase 2","transition loops (Phase 2)",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0493895274255365,3675.56669,1.01929294,"ICC"
-"670","Phase 2","transition loops (Phase 2)",2018-01-11,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0132179750706236,3689.66761,1.04700594,"ICC"
-"671","Phase 2","transition loops (Phase 2)",2018-01-31,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.100806993049146,3742.00655,1.19341024,"ICC"
-"672","Phase 1","conventional feedwater",2017-12-04,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.163835242525387,3760.50444,1.07185986,"ICC"
-"673","Phase 2","conventional control loop",2018-01-31,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.353346913231868,3801.10101,1.11765735,"ICC"
-"674","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.0679387564768266,3808.88374,1.04600156,"ICC"
-"675","Phase 2","advanced blend loops",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0162376120636752,3900.37298,1.06222205,"ICC"
-"677","Phase 2","conventional feedwater",2018-02-04,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.348967449261771,3985.64106,1.03403484,"ICC"
-"678","Phase 1","advanced blend loops",2017-11-13,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0414344338089573,4043.10385,1.04391832,"ICC"
-"679","Phase 1","transition loops (Phase 1)",2017-11-02,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.29388240360508,4088.69131,1.05635146,"ICC"
-"680","NA","full-scale
-distribution system
-",2018-03-22,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.71411454004997,4097.19329,1.09099488,"ICC"
-"681","Phase 2","conventional feedwater",2018-02-15,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.05761039784616,4127.28016,1.13722783,"ICC"
-"683","Phase 2","transition loops (Phase 2)",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0182937928386859,4176.58629,1.04784323,"ICC"
-"684","Phase 1","conventional feedwater",2017-12-11,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.459882881809374,4344.70777,1.02830743,"ICC"
-"685","NA","full-scale
-distribution system
-",2018-02-14,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.0540699668471189,4394.8898,1.65352208,"ICC"
-"686","Phase 1","conventional control loop",2017-11-16,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.344181530554989,4546.19695,1.01398651,"ICC"
-"687","Phase 2","advanced blend loops",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.234548734169135,4561.72916,1.06847521,"ICC"
-"688","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.276634664220929,4736.03555,1.1070424,"ICC"
-"689","Phase 2","transition loops (Phase 2)",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.254793325359393,4858.10874,1.09386568,"ICC"
-"690","Phase 2","advanced blend loops",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Between_Batch",0.0164608843437199,4877.33985,1.06753247,"ICC"
-"691","NA","full-scale
-distribution system
-",2018-02-16,"not applicable","bulkwater_grab","DWDS_286","DWDS_F",NA,0.0754042214444326,4950.92505,1.20577439,"ICC"
-"692","Phase 1","advanced blend loops",2017-11-20,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00606840706041491,4963.93343,1.08303335,"ICC"
-"693","Phase 2","transition loops (Phase 2)",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0766639478260021,5055.87809,1.00080129,"ICC"
-"694","NA","full-scale
-distribution system
-",2018-04-19,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.589315902194767,5143.02841,1.0682052,"ICC"
-"695","Phase 2","transition loops (Phase 2)",2018-01-08,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.103860802807403,5151.90474,1.1307871,"ICC"
-"696","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_229","DWDS_F",NA,0.274712365294054,5152.17176,1.04980476,"ICC"
-"698","Phase 2","transition loops (Phase 2)",2018-01-06,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Between_Batch",0.0670292895033571,5198.99862,1.06344095,"ICC"
-"699","Phase 1","advanced blend loops",2017-11-16,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0760519296702565,5364.27176,1.05567721,"ICC"
-"701","Phase 1","conventional control loop",2017-11-09,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.280543095095854,5475.54814,1.04876461,"ICC"
-"702","NA","full-scale
-distribution system
-",2018-02-14,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.341117660762702,5575.81991,1.0524561,"ICC"
-"704","Phase 1","advanced blend loops",2017-12-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00936822968700811,5628.91456,1.06465271,"ICC"
-"705","Phase 2","conventional control loop",2018-01-08,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.377010592134885,5636.16539,1.13219181,"ICC"
-"706","Phase 2","conventional feedwater",2018-01-15,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.704243797082897,5706.45998,1.08460307,"ICC"
-"707","Phase 2","advanced blend loops",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.261483656581346,5759.00161,1.09380315,"ICC"
-"708","Phase 2","transition loops (Phase 2)",2018-01-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.0159544341869017,5763.97213,1.13297223,"ICC"
-"709","Phase 2","conventional control loop",2018-02-04,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.468631181429245,5809.6821,1.06410777,"ICC"
-"710","Phase 2","advanced blend loops",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.131625964970284,5941.20613,1.09416531,"ICC"
-"712","Phase 2","transition loops (Phase 2)",2018-01-07,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Between_Batch",0.10490303711151,6110.51779,1.07393648,"ICC"
-"713","Phase 1","advanced blend loops",2017-12-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0543455964716914,6210.53004,1.08886532,"ICC"
-"714","Phase 1","conventional control loop",2018-01-01,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.371887112951476,6213.19996,1.17627042,"ICC"
-"716","Phase 2","advanced blend loops",2018-02-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0506397618429043,6284.90145,3.75841005,"ICC"
-"717","Phase 1","conventional feedwater",2017-11-06,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.289936637578488,6300.23885,1.09627087,"ICC"
-"718","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.402568831423881,6336.94012,1.14499265,"ICC"
-"719","Phase 2","advanced blend loops",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.145425964472372,6340.49848,1.04182562,"ICC"
-"721","Phase 2","advanced blend loops",2018-03-05,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.260012666807765,6743.96921,1.06411255,"ICC"
-"722","Phase 2","transition loops (Phase 2)",2018-01-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.0275413803846057,6875.09794,1.36363299,"ICC"
-"724","Phase 1","transition loops (Phase 1)",2017-11-09,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.252674060774657,6944.21832,1.03065194,"ICC"
-"725","Phase 2","advanced blend loops",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.342931241821767,6953.72063,1.48066102,"ICC"
-"726","Phase 2","transition loops (Phase 2)",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",NA,NA,1.03579131,"ICC"
-"727","Phase 2","conventional control loop",2018-01-18,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.390449966791049,7069.35458,1.07323034,"ICC"
-"728","Phase 1","conventional control loop",2018-01-05,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.494454308082685,7259.93223,1.12116772,"ICC"
-"729","Phase 1","advanced blend loops",2017-11-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.0448888661783092,7423.08798,1.06245714,"ICC"
-"730","Phase 2","transition loops (Phase 2)",2018-02-15,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.125344600071011,7470.12469,1.03516766,"ICC"
-"731","Phase 2","conventional control loop",2018-01-15,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.449149158456475,7517.36464,1.02809483,"ICC"
-"732","Phase 1","conventional control loop",2017-12-29,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.298300457539168,7598.61719,1.0505338,"ICC"
-"733","Phase 2","transition loops (Phase 2)",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.212029169615273,7607.92501,1.21580269,"ICC"
-"735","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.231859187992008,7889.97744,1.03119546,"ICC"
-"739","Phase 1","conventional feedwater",2017-11-02,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.323325232603752,8113.36208,1.04444987,"ICC"
-"740","Phase 2","advanced blend loops",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0664034657461304,8354.07593,1.09311054,"ICC"
-"742","Phase 1","conventional control loop",2017-11-13,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.514224044692289,8686.80931,1.09647638,"ICC"
-"744","NA","full-scale
-distribution system
-",2018-03-28,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.0928026848701362,8816.46166,1.06457923,"ICC"
-"746","Phase 1","conventional control loop",2017-11-20,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.517447450231728,8873.17237,1.13119008,"ICC"
-"747","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.353758192648918,8957.23859,1.09369489,"ICC"
-"750","Phase 2","transition loops (Phase 2)",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.419041658363299,9314.63905,1.08012738,"ICC"
-"752","Phase 2","advanced blend loops",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.539250693507462,9432.50896,1.10233051,"ICC"
-"753","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.278961930409518,9449.29111,1.03911036,"ICC"
-"754","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_331","DWDS_F",NA,0.676643212484843,9821.74215,1.01153258,"ICC"
-"756","Phase 2","conventional control loop",2018-01-12,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.403447807894284,10709.7022,1.06962613,"ICC"
-"757","Phase 2","advanced blend loops",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.394487221129503,10727.5804,1.0657613,"ICC"
-"758","Phase 1","advanced blend loops",2017-11-16,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.00852804218196692,11133.1816,1.03658092,"ICC"
-"762","Phase 1","conventional control loop",2017-12-18,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.354843288316402,11772.4591,1.02941221,"ICC"
-"763","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.382490639663193,12314.8258,1.0689756,"ICC"
-"764","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.42001755839555,12726.4032,1.02538182,"ICC"
-"765","Phase 1","transition loops (Phase 1)",2017-11-13,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.45426465350578,12728.4667,1.06761382,"ICC"
-"768","Phase 1","advanced blend loops",2017-11-09,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0161698781298478,13599.8735,1.01153175,"ICC"
-"769","NA","full-scale
-distribution system
-",2018-03-28,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.162789743620283,13733.6876,1.04323796,"ICC"
-"770","Phase 1","transition loops (Phase 1)",2018-01-01,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.3524734830964,13909.7931,1.21512464,"ICC"
-"772","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_67","DWDS_F",NA,0.834209215933094,14364.2112,1.01691483,"ICC"
-"773","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.315302924369495,14926.4866,1.10081193,"ICC"
-"775","NA","full-scale
-distribution system
-",2018-03-01,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.755064400509608,15342.0896,1.01983493,"ICC"
-"778","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_67","DWDS_F",NA,0.468656174306063,16469.3871,1.02622961,"ICC"
-"780","Phase 1","conventional control loop",2017-11-27,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.587968776003053,16757.2624,1.04806358,"ICC"
-"781","Phase 2","advanced blend loops",2018-03-19,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.137872285852795,17102.0812,1.03136469,"ICC"
-"783","Phase 1","transition loops (Phase 1)",2017-11-16,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.459277356886542,18211.5551,1.06698035,"ICC"
-"784","Phase 1","transition loops (Phase 1)",2018-01-05,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.466103316335701,19449.2702,1.03385075,"ICC"
-"786","Phase 2","transition loops (Phase 2)",2018-03-12,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.574057437145763,19781.0214,1.02460648,"ICC"
-"788","Phase 1","transition loops (Phase 1)",2017-12-29,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.390964757428214,20180.2645,1.03679876,"ICC"
-"789","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_225","DWDS_F",NA,0.652315372146997,20768.2116,1.01116122,"ICC"
-"790","Phase 2","advanced blend loops",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.45561732626926,21002.6236,1.09760235,"ICC"
-"791","NA","full-scale
-distribution system
-",2018-04-26,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.76743533484718,21399.4562,1.05418279,"ICC"
-"792","NA","full-scale
-distribution system
-",2018-03-01,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.880199437486835,21424.4761,1.02838785,"ICC"
-"794","Phase 1","transition loops (Phase 1)",2017-11-20,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.53879093198931,22095.9707,1.07391336,"ICC"
-"795","Phase 1","conventional control loop",2017-12-14,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.444254741626747,22319.2994,1.04780565,"ICC"
-"796","Phase 2","transition loops (Phase 2)",2018-02-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.313303707620058,24128.1159,1.0798486,"ICC"
-"797","Phase 1","conventional feedwater",2017-11-13,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.44946462558705,27201.7507,1.00332179,"ICC"
-"800","Phase 1","advanced blend loops",2017-12-04,"90% advanced
-10% conventional","bulkwater_grab","Loop_4","Pipe_Loop","Batch_End",0.0841092470693627,27829.2344,1.01658544,"ICC"
-"801","Phase 2","advanced feedwater",2018-01-12,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.0828621736818321,28452.0083,1.07461411,"ICC"
-"804","Phase 1","conventional feedwater",2017-11-16,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.255481183207598,31384.4181,1.09929169,"ICC"
-"805","NA","full-scale
-distribution system
-",2018-02-09,"not applicable","bulkwater_grab","DWDS_261","DWDS_F",NA,0.332592922069835,31952.1376,1.02142502,"ICC"
-"807","Phase 1","transition loops (Phase 1)",2017-12-14,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.464579208062399,34561.6722,1.04346253,"ICC"
-"809","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_237","DWDS_F",NA,0.76260069709959,36057.5019,1.0391668,"ICC"
-"811","NA","full-scale
-distribution system
-",2018-04-26,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.77303922380138,39766.0848,1.05676651,"ICC"
-"812","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_289","DWDS_F",NA,0.800436956488506,39856.0943,1.03389311,"ICC"
-"813","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_304","DWDS_F",NA,0.489422520977828,40336.3015,1.02448497,"ICC"
-"814","Phase 1","conventional control loop",2017-12-07,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.64376685694928,42616.8392,1.02469739,"ICC"
-"816","Phase 1","transition loops (Phase 1)",2017-11-27,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.746138775810268,43065.8238,1.00443618,"ICC"
-"819","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.862781358682364,47473.5009,1.02587166,"ICC"
-"820","Phase 1","conventional feedwater",2017-12-07,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.0780396485619239,48583.5001,1.01787514,"ICC"
-"823","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_328","DWDS_F",NA,0.756979167695256,52473.9825,1.02428404,"ICC"
-"824","Phase 2","transition loops (Phase 2)",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.769265271793251,53530.0262,1.05451346,"ICC"
-"825","NA","full-scale
-distribution system
-",2018-03-27,"not applicable","bulkwater_grab","DWDS_261","DWDS_F",NA,0.710498277914588,53769.0145,1.03011903,"ICC"
-"826","Phase 1","transition loops (Phase 1)",2017-12-18,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.508367437456449,56439.6026,1.03111352,"ICC"
-"829","NA","full-scale
-distribution system
-",2018-03-22,"not applicable","bulkwater_grab","DWDS_282","DWDS_F",NA,0.807469212537411,59306.899,1.01570283,"ICC"
-"833","Phase 2","advanced blend loops",2018-03-26,"90% advanced
-10% conventional","bulkwater_grab","Loop_3","Pipe_Loop","Batch_End",0.67372598321356,63889.1339,1.09114964,"ICC"
-"834","NA","full-scale
-distribution system
-",2017-08-22,"not applicable","bulkwater_grab","DWDS_261","DWDS_F",NA,0.460571322865195,64474.9378,1.06144713,"ICC"
-"836","Phase 1","conventional control loop",2017-12-04,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.605766065477044,65070.9649,1.02096509,"ICC"
-"837","Phase 1","advanced feedwater",2017-12-07,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.916431560135696,66493.1366,1.08632889,"ICC"
-"838","Phase 1","transition loops (Phase 1)",2017-12-14,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.219996320536189,66971.138,1.05075757,"ICC"
-"839","Phase 1","advanced feedwater",2017-11-20,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.823005355187551,67550.3594,1.13697986,"ICC"
-"841","Phase 1","transition loops (Phase 1)",2017-12-07,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.743460288556929,71526.727,1.02328635,"ICC"
-"850","Phase 1","conventional control loop",2017-12-11,"100% conventional","bulkwater_grab","Loop_5","Pipe_Loop","Batch_End",0.65588567591803,96195.533,1.01214894,"ICC"
-"853","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.628862838244084,101791.504,1.02435647,"ICC"
-"854","Phase 1","transition loops (Phase 1)",2017-12-04,"100% conventional","bulkwater_grab","Loop_2","Pipe_Loop","Batch_End",0.742507652448817,102274.867,1.0064108,"ICC"
-"856","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_325","DWDS_F",NA,0.828059688516292,104997.027,1.03362733,"ICC"
-"857","Phase 1","transition loops (Phase 1)",2017-12-07,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.737798665970222,105344.679,1.00870278,"ICC"
-"860","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_226","DWDS_F",NA,0.806537652744238,109414.26,1.0082768,"ICC"
-"862","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_329","DWDS_F",NA,0.830138250116931,110996.986,1.01765877,"ICC"
-"863","Phase 1","conventional feedwater",2017-11-27,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.327292505787822,111386.492,1.00140439,"ICC"
-"864","Phase 1","advanced feedwater",2017-11-02,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.394252094661577,111773.846,1.1168867,"ICC"
-"868","Phase 1","conventional feedwater",2017-11-20,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.487333985171594,131059.08,1.07795468,"ICC"
-"870","Phase 1","advanced feedwater",2017-12-18,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.275494015227956,131829.805,1.05720715,"ICC"
-"872","NA","full-scale
-distribution system
-",2017-08-23,"not applicable","bulkwater_grab","DWDS_307","DWDS_F",NA,0.917434292607268,133449.75,1.00708777,"ICC"
-"877","Phase 1","advanced feedwater",2017-11-06,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.772732651551476,135434.087,1.09445518,"ICC"
-"880","Phase 2","advanced feedwater",2018-01-31,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.760568317078893,138715.73,1.07964867,"ICC"
-"888","Phase 1","conventional feedwater",2017-10-23,"100% conventional","bulkwater_grab","conventional_feed","DWDS_F","Batch_Start",0.60850967880874,152588.939,1.05256051,"ICC"
-"894","Phase 1","advanced feedwater",2017-11-27,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.743609842930073,161815.154,1.09423415,"ICC"
-"895","Phase 1","transition loops (Phase 1)",2017-11-27,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.993575739074324,162481.391,1.01124274,"ICC"
-"896","Phase 1","transition loops (Phase 1)",2017-12-04,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",NA,171985.051,1.01458545,"ICC"
-"897","Phase 1","advanced feedwater",2017-11-09,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.954846483480652,172289.105,1.08038368,"ICC"
-"901","Phase 2","advanced feedwater",2018-01-05,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.357789076584519,185513.56,1.11629412,"ICC"
-"904","Phase 1","advanced feedwater",2017-12-04,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.703670486393623,191335.664,1.08292839,"ICC"
-"911","Phase 2","advanced feedwater",2018-01-29,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.743601859289862,210939.797,1.06186664,"ICC"
-"912","Phase 1","advanced feedwater",2017-12-11,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.706886058061637,214167.167,1.06106149,"ICC"
-"914","Phase 1","advanced feedwater",2017-10-23,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.92831506257758,226480.622,1.12596007,"ICC"
-"930","Phase 1","advanced feedwater",2017-11-13,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.886813341469263,396175.871,1.02152898,"ICC"
-"931","Phase 1","advanced feedwater",2017-12-14,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.980127333877791,400316.365,1.32801146,"ICC"
-"932","Phase 1","advanced feedwater",2017-12-29,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.85276004842433,418313.778,1.02259993,"ICC"
-"934","Phase 2","advanced feedwater",2018-02-04,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.891839183209435,432718.382,1.01675305,"ICC"
-"936","Phase 2","advanced feedwater",2018-01-15,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.951998927464719,503831.854,1.04752892,"ICC"
-"937","Phase 2","advanced feedwater",2018-03-12,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.828758257640364,506519.881,1.05379972,"ICC"
-"941","Phase 2","advanced feedwater",2018-03-01,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.896445903169597,612659.336,1.01170369,"ICC"
-"943","Phase 1","advanced feedwater",2018-01-01,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.903317328404931,618557.562,1.09056562,"ICC"
-"944","Phase 2","advanced feedwater",2018-03-05,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.889757019245831,653746.007,1.0330949,"ICC"
-"951","Phase 1","transition loops (Phase 1)",2017-12-11,"100% conventional","bulkwater_grab","Loop_1","Pipe_Loop","Batch_End",0.898241642021545,731955.497,1.00909634,"ICC"
-"953","Phase 2","advanced feedwater",2018-03-19,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.719302415859772,802448.963,1.02225322,"ICC"
-"957","Phase 2","advanced feedwater",2018-03-22,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.864682333693992,963110.317,1.05358854,"ICC"
-"959","Phase 2","advanced feedwater",2018-01-08,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.982621275043871,2011961.2,1.13362422,"ICC"
-"960","Phase 2","advanced feedwater",2018-02-15,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",NA,NA,1.01456269,"ICC"
-"961","Phase 2","advanced feedwater",2018-02-19,"100% advanced","bulkwater_grab","advanced_feed","Pipe_Loop","Batch_Start",0.891600623499249,2376073.48,1.01423551,"ICC"
+,Phase,adj_loc,sample_date,influent_composition,sample_type,location_code_orig,broad_location,batch_end_or_start,ICC_to_TCC,avg_cells_per_mL_gmean,avg_cells_per_mL_gstd,assay
+390,Phase 1,advanced feedwater,10/23/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.928315063,243969.565,1.03948764,TCC
+5,NA,RO permeate,12/14/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.714069819,97.7505238,1.17632702,TCC
+6,NA,RO permeate,10/10/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.935399073,100.217394,1.46823078,TCC
+7,NA,RO permeate,11/7/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.615697477,104.894206,1.52018147,TCC
+392,Phase 1,conventional feedwater,10/23/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.608509679,250758.442,1.04609562,TCC
+10,NA,RO permeate,10/10/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.627181487,142.41292,1.02552592,TCC
+12,NA,RO permeate,11/14/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.6854658,174.572301,1.08005466,TCC
+13,NA,RO permeate,8/1/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.247225361,177.111359,1.65543992,TCC
+15,NA,RO permeate,11/14/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.629416739,243.038171,1.55341432,TCC
+16,NA,RO permeate,12/14/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.610425764,267.65281,1.27985299,TCC
+17,NA,RO permeate,9/21/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.413193793,345.066536,1.05482155,TCC
+18,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_6,DWDS_F,NA,1.087380374,349.698616,1.46316747,TCC
+888,Phase 1,conventional feedwater,10/23/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.608509679,152588.939,1.05256051,ICC
+20,NA,RO permeate,9/21/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.366123239,459.489342,1.23077587,TCC
+24,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_18,DWDS_F,NA,0.223308579,529.997277,1.72742137,TCC
+30,NA,RO permeate,9/14/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.329307053,980.202876,1.07508917,TCC
+33,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_19,DWDS_F,NA,0.273212545,1183.52135,1.14192573,TCC
+914,Phase 1,advanced feedwater,10/23/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.928315063,226480.622,1.12596007,ICC
+35,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_20,DWDS_F,NA,0.306403182,1339.83347,1.06285828,TCC
+37,NA,"full-scale
+distribution system
+",3/1/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.651943756,1612.26319,1.03490344,TCC
+39,NA,RO permeate,9/14/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.595812378,1847.58983,1.0452659,TCC
+41,NA,RO permeate,9/26/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.568669094,1900.13595,1.00621695,TCC
+43,NA,"full-scale
+distribution system
+",3/22/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.464752496,2076.70202,1.43002245,TCC
+44,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_8,DWDS_F,NA,0.712804322,2179.90223,1.38516867,TCC
+45,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_5,DWDS_F,NA,0.353585283,2185.9951,1.04217219,TCC
+77,Phase 1,transition loops (Phase 1),11/2/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.269937494,5507.83876,1.06889144,TCC
+47,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_12,DWDS_F,NA,0.88122163,2353.79035,1.03725639,TCC
+49,NA,"full-scale
+distribution system
+",4/19/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.394750487,2471.81447,1.22115016,TCC
+107,Phase 1,conventional control loop,11/2/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.29316839,11305.2086,1.02618044,TCC
+52,NA,RO permeate,9/26/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.836765774,2681.66689,1.01925597,TCC
+119,Phase 1,transition loops (Phase 1),11/2/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.293882404,13912.6782,1.03939202,TCC
+54,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_22,DWDS_F,NA,0.18046573,2718.89963,1.14076566,TCC
+55,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.792627535,2739.24106,1.05593194,TCC
+56,NA,"full-scale
+distribution system
+",4/19/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.924501245,2748.44943,1.06992405,TCC
+165,Phase 1,conventional feedwater,11/2/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.323325233,25093.5011,1.01808233,TCC
+211,Phase 1,advanced blend loops,11/2/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.044411933,44835.5693,1.02624838,TCC
+229,Phase 1,advanced blend loops,11/2/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.051239878,52340.703,1.00801166,TCC
+63,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_11,DWDS_F,NA,0.603142095,3547.0981,1.03354721,TCC
+64,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_2,DWDS_F,NA,0.401851672,3667.85397,1.11282768,TCC
+65,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_3,DWDS_F,NA,0.241602033,3790.3546,1.04787093,TCC
+405,Phase 1,advanced feedwater,11/2/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.394252095,283508.566,1.42291227,TCC
+578,Phase 1,transition loops (Phase 1),11/2/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.269937494,1486.77219,1.20762073,ICC
+68,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_21,DWDS_F,NA,0.159296562,4631.94066,1.02673543,TCC
+69,NA,"full-scale
+distribution system
+",4/26/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.64686225,4678.56911,1.20523175,TCC
+601,Phase 1,advanced blend loops,11/2/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.044411933,1991.23428,1.12954394,ICC
+636,Phase 1,advanced blend loops,11/2/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.051239878,2681.93126,1.13425122,ICC
+72,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_3,DWDS_F,NA,0.211419864,4994.07048,1.08991129,TCC
+657,Phase 1,conventional control loop,11/2/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.29316839,3314.3298,1.04511553,ICC
+679,Phase 1,transition loops (Phase 1),11/2/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.293882404,4088.69131,1.05635146,ICC
+75,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_18,DWDS_F,NA,0.610818395,5406.21135,1.03999878,TCC
+739,Phase 1,conventional feedwater,11/2/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.323325233,8113.36208,1.04444987,ICC
+78,NA,"full-scale
+distribution system
+",3/22/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.71411454,5737.44555,1.12411456,TCC
+864,Phase 1,advanced feedwater,11/2/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.394252095,111773.846,1.1168867,ICC
+80,Phase 1,transition loops (Phase 1),11/6/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.250164712,5892.48087,1.50492145,TCC
+81,Phase 1,conventional control loop,11/6/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.42993069,5947.65337,1.13409192,TCC
+83,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.177776458,6002.68732,1.06923922,TCC
+85,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_23,DWDS_F,NA,0.142866241,6332.12749,1.02396414,TCC
+89,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_2,DWDS_F,NA,0.196184096,6490.15669,1.01905098,TCC
+97,Phase 1,transition loops (Phase 1),11/6/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.342920525,8424.24924,1.049136,TCC
+91,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_12,DWDS_F,NA,0.22390964,6792.02022,1.08889387,TCC
+153,Phase 1,conventional feedwater,11/6/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.289936638,21729.7093,1.04686683,TCC
+228,Phase 1,advanced blend loops,11/6/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.048255673,52214.7567,1.01758268,TCC
+249,Phase 1,advanced blend loops,11/6/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.033868657,67747.3969,1.02398217,TCC
+96,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_1,DWDS_F,NA,0.195402521,8335.85495,1.01425933,TCC
+357,Phase 1,advanced feedwater,11/6/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.772732652,175266.422,1.05426511,TCC
+577,Phase 1,transition loops (Phase 1),11/6/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.250164712,1474.09078,1.14050313,ICC
+99,NA,"full-scale
+distribution system
+",4/19/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.589315902,8727.11629,1.09735808,TCC
+100,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_11,DWDS_F,NA,0.258977339,8984.33504,1.02258483,TCC
+622,Phase 1,advanced blend loops,11/6/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.033868657,2294.51336,1.11070984,ICC
+630,Phase 1,advanced blend loops,11/6/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.048255673,2519.65822,1.05574548,ICC
+632,Phase 1,conventional control loop,11/6/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.42993069,2557.07872,1.07543952,ICC
+643,Phase 1,transition loops (Phase 1),11/6/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.342920525,2888.84797,1.05923894,ICC
+717,Phase 1,conventional feedwater,11/6/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.289936638,6300.23885,1.09627087,ICC
+109,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_6,DWDS_F,NA,0.088892014,11505.4225,1.00936186,TCC
+877,Phase 1,advanced feedwater,11/6/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.772732652,135434.087,1.09445518,ICC
+104,Phase 1,transition loops (Phase 1),11/9/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.085477252,10453.1573,1.95504075,TCC
+147,Phase 1,conventional control loop,11/9/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Between_Batch,0.280543095,19517.6721,1.02113058,TCC
+173,Phase 1,transition loops (Phase 1),11/9/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.252674061,27482.9094,1.00961582,TCC
+349,Phase 1,advanced blend loops,11/9/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.044888866,165365.905,1.00130013,TCC
+359,Phase 1,advanced feedwater,11/9/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Between_Batch,0.954846483,180436.445,1.06134122,TCC
+458,Phase 1,advanced blend loops,11/9/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.016169878,841062.214,1.00484066,TCC
+543,Phase 1,transition loops (Phase 1),11/9/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.085477252,893.507157,1.17222353,ICC
+701,Phase 1,conventional control loop,11/9/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Between_Batch,0.280543095,5475.54814,1.04876461,ICC
+122,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_20,DWDS_F,NA,0.676643212,14515.393,1.04464902,TCC
+724,Phase 1,transition loops (Phase 1),11/9/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.252674061,6944.21832,1.03065194,ICC
+729,Phase 1,advanced blend loops,11/9/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.044888866,7423.08798,1.06245714,ICC
+768,Phase 1,advanced blend loops,11/9/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.016169878,13599.8735,1.01153175,ICC
+897,Phase 1,advanced feedwater,11/9/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Between_Batch,0.954846483,172289.105,1.08038368,ICC
+128,NA,"full-scale
+distribution system
+",2/14/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.341117661,16345.738,1.11388937,TCC
+90,Phase 1,transition loops (Phase 1),11/13/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.24400252,6618.99931,1.07487284,TCC
+132,Phase 1,conventional control loop,11/13/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.514224045,16893.0438,1.03385578,TCC
+178,Phase 1,transition loops (Phase 1),11/13/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.454264654,28019.9364,1.0480939,TCC
+241,Phase 1,conventional feedwater,11/13/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.449464626,60520.3372,1.0124331,TCC
+286,Phase 1,advanced blend loops,11/13/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.041434434,97578.354,1.01713969,TCC
+136,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_16,DWDS_F,NA,0.834209216,17218.9553,1.03512784,TCC
+427,Phase 1,advanced feedwater,11/13/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.886813341,446740.991,1.01448881,TCC
+433,Phase 1,advanced blend loops,11/13/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.006069892,487089.314,1.00994161,TCC
+141,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_8,DWDS_F,NA,0.274712365,18754.7865,1.03899111,TCC
+586,Phase 1,transition loops (Phase 1),11/13/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.24400252,1615.05251,1.02488253,ICC
+646,Phase 1,advanced blend loops,11/13/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.006069892,2956.57947,1.09562096,ICC
+678,Phase 1,advanced blend loops,11/13/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.041434434,4043.10385,1.04391832,ICC
+742,Phase 1,conventional control loop,11/13/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.514224045,8686.80931,1.09647638,ICC
+765,Phase 1,transition loops (Phase 1),11/13/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.454264654,12728.4667,1.06761382,ICC
+150,NA,"full-scale
+distribution system
+",3/1/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.755064401,20318.9153,1.04716827,TCC
+797,Phase 1,conventional feedwater,11/13/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.449464626,27201.7507,1.00332179,ICC
+930,Phase 1,advanced feedwater,11/13/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.886813341,396175.871,1.02152898,ICC
+112,Phase 1,transition loops (Phase 1),11/16/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.180520985,11905.5881,1.05564621,TCC
+117,Phase 1,conventional control loop,11/16/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Between_Batch,0.344181531,13208.7185,1.00922035,TCC
+158,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.027213952,22579.4694,1.12667644,TCC
+205,Phase 1,transition loops (Phase 1),11/16/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.459277357,39652.63,1.03500906,TCC
+253,Phase 1,advanced blend loops,11/16/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.07605193,70534.3281,1.0218485,TCC
+304,Phase 1,conventional feedwater,11/16/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Between_Batch,0.255481183,122844.343,1.2046931,TCC
+470,Phase 1,advanced blend loops,11/16/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.008528042,1305479.19,1.00706718,TCC
+611,Phase 1,transition loops (Phase 1),11/16/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.180520985,2149.20849,1.1524749,ICC
+164,NA,"full-scale
+distribution system
+",3/1/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.880199437,24340.4792,1.15417732,TCC
+686,Phase 1,conventional control loop,11/16/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Between_Batch,0.344181531,4546.19695,1.01398651,ICC
+699,Phase 1,advanced blend loops,11/16/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.07605193,5364.27176,1.05567721,ICC
+758,Phase 1,advanced blend loops,11/16/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.008528042,11133.1816,1.03658092,ICC
+783,Phase 1,transition loops (Phase 1),11/16/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.459277357,18211.5551,1.06698035,ICC
+169,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_9,DWDS_F,NA,0.065944281,26105.1537,1.08327559,TCC
+804,Phase 1,conventional feedwater,11/16/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Between_Batch,0.255481183,31384.4181,1.09929169,ICC
+94,Phase 1,transition loops (Phase 1),11/20/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.442880091,7644.19859,1.08561026,TCC
+135,Phase 1,conventional control loop,11/20/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.51744745,17147.9681,1.13247888,TCC
+206,Phase 1,transition loops (Phase 1),11/20/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.538790932,41010.2869,1.0414559,TCC
+175,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_1,DWDS_F,NA,0.030989776,27844.0871,1.11085111,TCC
+176,NA,"full-scale
+distribution system
+",4/26/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.767435335,27884.377,1.04617258,TCC
+223,Phase 1,advanced blend loops,11/20/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.067351226,50641.8354,1.01173744,TCC
+267,Phase 1,advanced feedwater,11/20/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.823005355,82077.6669,1.0513011,TCC
+399,Phase 1,conventional feedwater,11/20/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.487333985,268930.721,1.00633102,TCC
+457,Phase 1,advanced blend loops,11/20/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.006068407,817996.12,1.01132869,TCC
+659,Phase 1,transition loops (Phase 1),11/20/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.442880091,3385.46337,1.04316221,ICC
+187,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_19,DWDS_F,NA,0.652315372,31837.6854,1.01688747,TCC
+660,Phase 1,advanced blend loops,11/20/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.067351226,3410.78969,1.20084238,ICC
+692,Phase 1,advanced blend loops,11/20/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.006068407,4963.93343,1.08303335,ICC
+746,Phase 1,conventional control loop,11/20/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.51744745,8873.17237,1.13119008,ICC
+794,Phase 1,transition loops (Phase 1),11/20/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.538790932,22095.9707,1.07391336,ICC
+194,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.231859188,34029.1774,1.04760922,TCC
+839,Phase 1,advanced feedwater,11/20/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.823005355,67550.3594,1.13697986,ICC
+196,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_16,DWDS_F,NA,0.468656174,35141.7265,1.25893202,TCC
+868,Phase 1,conventional feedwater,11/20/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.487333985,131059.08,1.07795468,ICC
+179,Phase 1,conventional control loop,11/27/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.587968776,28500.259,1.01191179,TCC
+183,Phase 1,advanced blend loops,11/27/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.016944467,30129.369,1.03516227,TCC
+236,Phase 1,transition loops (Phase 1),11/27/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.746138776,57718.2492,1.03708752,TCC
+339,Phase 1,advanced blend loops,11/27/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.005337895,155401.803,1.00844003,TCC
+348,Phase 1,transition loops (Phase 1),11/27/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.993575739,163531.963,1.01467068,TCC
+376,Phase 1,advanced feedwater,11/27/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.743609843,217607.601,1.09527776,TCC
+418,Phase 1,conventional feedwater,11/27/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.327292506,340327.047,1.0060002,TCC
+525,Phase 1,advanced blend loops,11/27/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.016944467,510.526104,1.11662016,ICC
+540,Phase 1,advanced blend loops,11/27/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.005337895,829.51849,1.06268808,ICC
+780,Phase 1,conventional control loop,11/27/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.587968776,16757.2624,1.04806358,ICC
+816,Phase 1,transition loops (Phase 1),11/27/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.746138776,43065.8238,1.00443618,ICC
+863,Phase 1,conventional feedwater,11/27/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.327292506,111386.492,1.00140439,ICC
+894,Phase 1,advanced feedwater,11/27/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.743609843,161815.154,1.09423415,ICC
+217,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_14,DWDS_F,NA,0.762600697,47282.2829,1.05191334,TCC
+895,Phase 1,transition loops (Phase 1),11/27/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.993575739,162481.391,1.01124274,ICC
+160,Phase 1,conventional feedwater,12/4/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.163835243,22952.9641,1.08238223,TCC
+291,Phase 1,conventional control loop,12/4/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.605766065,107419.297,1.00747515,TCC
+221,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_17,DWDS_F,NA,0.800436956,49792.9212,1.05410012,TCC
+298,Phase 1,advanced blend loops,12/4/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.054345596,114278.441,1.02116142,TCC
+325,Phase 1,transition loops (Phase 1),12/4/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.742507652,137742.509,1.00734168,TCC
+401,Phase 1,advanced feedwater,12/4/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.703670486,271910.884,1.16435701,TCC
+225,NA,"full-scale
+distribution system
+",4/26/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.773039224,51441.2252,1.02473728,TCC
+417,Phase 1,advanced blend loops,12/4/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.084109247,330870.093,1.00830437,TCC
+672,Phase 1,conventional feedwater,12/4/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.163835243,3760.50444,1.07185986,ICC
+713,Phase 1,advanced blend loops,12/4/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.054345596,6210.53004,1.08886532,ICC
+800,Phase 1,advanced blend loops,12/4/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.084109247,27829.2344,1.01658544,ICC
+231,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.862781359,55023.7907,1.02161186,TCC
+836,Phase 1,conventional control loop,12/4/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.605766065,65070.9649,1.02096509,ICC
+854,Phase 1,transition loops (Phase 1),12/4/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.742507652,102274.867,1.0064108,ICC
+896,Phase 1,transition loops (Phase 1),12/4/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,NA,171985.051,1.01458545,ICC
+904,Phase 1,advanced feedwater,12/4/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.703670486,191335.664,1.08292839,ICC
+248,Phase 1,conventional control loop,12/7/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.643766857,66199.1818,1.00648271,TCC
+255,Phase 1,advanced feedwater,12/7/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.91643156,72556.5765,1.13367213,TCC
+284,Phase 1,transition loops (Phase 1),12/7/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.743460289,96207.8649,1.01664839,TCC
+245,NA,"full-scale
+distribution system
+",2/16/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.075404221,65658.4599,1.01942115,TCC
+310,Phase 1,advanced blend loops,12/7/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.012754623,126444.857,1.01830087,TCC
+329,Phase 1,transition loops (Phase 1),12/7/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.737798666,142782.42,1.00613717,TCC
+443,Phase 1,advanced blend loops,12/7/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.00936823,600851.468,1.02382772,TCC
+446,Phase 1,conventional feedwater,12/7/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.078039649,622548.935,1.02402582,TCC
+250,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.756979168,69320.2465,1.00434218,TCC
+251,NA,"full-scale
+distribution system
+",3/28/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.019450603,69384.021,1.07519851,TCC
+585,Phase 1,advanced blend loops,12/7/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.012754623,1612.75652,1.13946248,ICC
+704,Phase 1,advanced blend loops,12/7/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.00936823,5628.91456,1.06465271,ICC
+814,Phase 1,conventional control loop,12/7/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.643766857,42616.8392,1.02469739,ICC
+820,Phase 1,conventional feedwater,12/7/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.078039649,48583.5001,1.01787514,ICC
+256,NA,"full-scale
+distribution system
+",3/22/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.807469213,73447.8765,1.02447216,TCC
+837,Phase 1,advanced feedwater,12/7/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.91643156,66493.1366,1.08632889,ICC
+841,Phase 1,transition loops (Phase 1),12/7/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.743460289,71526.727,1.02328635,ICC
+857,Phase 1,transition loops (Phase 1),12/7/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.737798666,105344.679,1.00870278,ICC
+261,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_7,DWDS_F,NA,0.710498278,75677.8956,1.0361422,TCC
+102,Phase 1,conventional feedwater,12/11/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.459882882,9447.42225,1.10781417,TCC
+185,Phase 1,advanced blend loops,12/11/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.065885143,30860.6167,1.15273987,TCC
+266,NA,"full-scale
+distribution system
+",2/14/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.054069967,81281.5331,1.06722744,TCC
+192,Phase 1,advanced blend loops,12/11/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.015082971,33515.9691,1.0067702,TCC
+268,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_13,DWDS_F,NA,0.489422521,82416.1124,1.04094098,TCC
+272,NA,"full-scale
+distribution system
+",3/28/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.162789744,84364.5754,1.42793367,TCC
+334,Phase 1,conventional control loop,12/11/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.655885676,146665.092,1.03092739,TCC
+347,Phase 1,transition loops (Phase 1),12/11/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.628862838,161865.987,1.02542511,TCC
+411,Phase 1,advanced feedwater,12/11/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.706886058,302972.685,1.01883069,TCC
+456,Phase 1,transition loops (Phase 1),12/11/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.898241642,814875.934,1.00704542,TCC
+524,Phase 1,advanced blend loops,12/11/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.015082971,505.520378,1.30316756,ICC
+281,NA,"full-scale
+distribution system
+",3/28/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.092802685,95002.2262,1.04514363,TCC
+604,Phase 1,advanced blend loops,12/11/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.065885143,2033.25613,1.07205213,ICC
+283,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_7,DWDS_F,NA,0.332592922,96069.8063,1.02266434,TCC
+684,Phase 1,conventional feedwater,12/11/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.459882882,4344.70777,1.02830743,ICC
+850,Phase 1,conventional control loop,12/11/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.655885676,96195.533,1.01214894,ICC
+853,Phase 1,transition loops (Phase 1),12/11/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.628862838,101791.504,1.02435647,ICC
+912,Phase 1,advanced feedwater,12/11/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.706886058,214167.167,1.06106149,ICC
+951,Phase 1,transition loops (Phase 1),12/11/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.898241642,731955.497,1.00909634,ICC
+163,Phase 1,conventional feedwater,12/14/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.094827583,23912.5987,1.11245634,TCC
+216,Phase 1,advanced blend loops,12/14/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.031067317,47014.3478,1.0372288,TCC
+222,Phase 1,conventional control loop,12/14/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.444254742,50239.8676,1.08208412,TCC
+224,Phase 1,advanced blend loops,12/14/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.033659787,50765.259,1.00995795,TCC
+257,Phase 1,transition loops (Phase 1),12/14/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.464579208,74393.4976,1.03796697,TCC
+412,Phase 1,transition loops (Phase 1),12/14/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.219996321,304419.355,1.0367563,TCC
+424,Phase 1,advanced feedwater,12/14/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.980127334,408433.018,1.09039337,TCC
+575,Phase 1,advanced blend loops,12/14/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.031067317,1460.60964,1.1405601,ICC
+592,Phase 1,advanced blend loops,12/14/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.033659787,1708.74779,1.08285387,ICC
+618,Phase 1,conventional feedwater,12/14/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.094827583,2267.57393,1.0779665,ICC
+795,Phase 1,conventional control loop,12/14/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.444254742,22319.2994,1.04780565,ICC
+807,Phase 1,transition loops (Phase 1),12/14/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.464579208,34561.6722,1.04346253,ICC
+312,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_23,DWDS_F,NA,0.828059689,126798.863,1.01822596,TCC
+838,Phase 1,transition loops (Phase 1),12/14/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.219996321,66971.138,1.05075757,ICC
+320,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_21,DWDS_F,NA,0.83013825,133709.037,1.02791841,TCC
+931,Phase 1,advanced feedwater,12/14/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.980127334,400316.365,1.32801146,ICC
+323,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_5,DWDS_F,NA,0.806537653,135659.209,1.01591885,TCC
+159,Phase 1,conventional feedwater,12/18/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.144131469,22607.9261,1.0782092,TCC
+327,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_7,DWDS_F,NA,0.460571323,139989.041,1.01834395,TCC
+191,Phase 1,conventional control loop,12/18/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.354843288,33176.5021,1.02184659,TCC
+214,Phase 1,advanced blend loops,12/18/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.019903744,45960.3551,1.01025286,TCC
+218,Phase 1,transition loops (Phase 1),12/18/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.315302924,47340.1464,1.01355668,TCC
+276,Phase 1,advanced blend loops,12/18/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.00757603,86456.9918,1.05925335,TCC
+333,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_22,DWDS_F,NA,0.917434293,145459.736,1.02086846,TCC
+295,Phase 1,transition loops (Phase 1),12/18/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.508367437,111021.278,1.02999553,TCC
+431,Phase 1,advanced feedwater,12/18/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.275494015,478521.484,1.06393778,TCC
+534,Phase 1,advanced blend loops,12/18/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.00757603,655.000764,1.12941357,ICC
+547,Phase 1,advanced blend loops,12/18/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.019903744,914.783156,1.18902974,ICC
+655,Phase 1,conventional feedwater,12/18/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.144131469,3258.5136,1.11538383,ICC
+762,Phase 1,conventional control loop,12/18/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.354843288,11772.4591,1.02941221,ICC
+773,Phase 1,transition loops (Phase 1),12/18/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.315302924,14926.4866,1.10081193,ICC
+826,Phase 1,transition loops (Phase 1),12/18/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.508367437,56439.6026,1.03111352,ICC
+870,Phase 1,advanced feedwater,12/18/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.275494015,131829.805,1.05720715,ICC
+70,Phase 1,conventional feedwater,12/29/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.331601544,4808.96205,1.07114233,TCC
+167,Phase 1,conventional control loop,12/29/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.298300458,25473.0323,1.04964489,TCC
+193,Phase 1,transition loops (Phase 1),12/29/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.27896193,33873.0489,1.03454402,TCC
+226,Phase 1,transition loops (Phase 1),12/29/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.390964757,51616.5821,1.03270729,TCC
+290,Phase 1,advanced blend loops,12/29/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.015194063,107265.424,1.02999276,TCC
+375,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_14,DWDS_F,NA,0.016119934,216377.939,1.02272177,TCC
+332,Phase 1,advanced blend loops,12/29/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.007321797,143901.788,1.01119442,TCC
+434,Phase 1,advanced feedwater,12/29/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.852760048,490541.013,1.04786243,TCC
+556,Phase 1,advanced blend loops,12/29/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.007321797,1053.61973,1.19822418,ICC
+584,Phase 1,conventional feedwater,12/29/17,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.331601544,1594.65924,1.25807125,ICC
+589,Phase 1,advanced blend loops,12/29/17,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.015194063,1629.79764,1.22960065,ICC
+732,Phase 1,conventional control loop,12/29/17,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.298300458,7598.61719,1.0505338,ICC
+753,Phase 1,transition loops (Phase 1),12/29/17,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.27896193,9449.29111,1.03911036,ICC
+788,Phase 1,transition loops (Phase 1),12/29/17,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.390964757,20180.2645,1.03679876,ICC
+932,Phase 1,advanced feedwater,12/29/17,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.852760048,418313.778,1.02259993,ICC
+393,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_16,DWDS_F,NA,0.006026714,253031.768,1.074908,TCC
+59,Phase 1,conventional feedwater,1/1/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.407847416,3220.55151,1.04082935,TCC
+129,Phase 1,conventional control loop,1/1/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.371887113,16707.2204,1.03426061,TCC
+166,Phase 1,transition loops (Phase 1),1/1/18,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.353758193,25320.2294,1.0406493,TCC
+204,Phase 1,transition loops (Phase 1),1/1/18,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.352473483,39463.3746,1.05233761,TCC
+293,Phase 1,advanced blend loops,1/1/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.008094881,109523.527,1.06704691,TCC
+330,Phase 1,advanced blend loops,1/1/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.015132269,142926.55,1.05896877,TCC
+449,Phase 1,advanced feedwater,1/1/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.903317328,684762.201,1.03397651,TCC
+410,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.003946477,296814.627,1.0138563,TCC
+542,Phase 1,advanced blend loops,1/1/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.008094881,886.579969,1.1317614,ICC
+567,Phase 1,conventional feedwater,1/1/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.407847416,1313.49361,1.26226878,ICC
+613,Phase 1,advanced blend loops,1/1/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.015132269,2162.803,1.1383859,ICC
+714,Phase 1,conventional control loop,1/1/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.371887113,6213.19996,1.17627042,ICC
+747,Phase 1,transition loops (Phase 1),1/1/18,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.353758193,8957.23859,1.09369489,ICC
+770,Phase 1,transition loops (Phase 1),1/1/18,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.352473483,13909.7931,1.21512464,ICC
+943,Phase 1,advanced feedwater,1/1/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.903317328,618557.562,1.09056562,ICC
+50,Phase 2,conventional feedwater,1/5/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.191875636,2558.83627,1.1060234,TCC
+123,Phase 1,conventional control loop,1/5/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.494454308,14682.7161,1.05017366,TCC
+184,Phase 1,transition loops (Phase 1),1/5/18,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.420017558,30299.6933,1.02456594,TCC
+207,Phase 1,transition loops (Phase 1),1/5/18,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.466103316,41727.38,1.01070767,TCC
+274,Phase 1,advanced blend loops,1/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.007571356,84765.4843,1.01095147,TCC
+319,Phase 1,advanced blend loops,1/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.006814353,133130.803,1.01531772,TCC
+438,Phase 2,advanced feedwater,1/5/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.357789077,518499.787,1.03789344,TCC
+522,Phase 2,conventional feedwater,1/5/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.191875636,490.978338,1.24866199,ICC
+533,Phase 1,advanced blend loops,1/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.007571356,641.789694,1.12796674,ICC
+546,Phase 1,advanced blend loops,1/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.006814353,907.200326,1.1926691,ICC
+728,Phase 1,conventional control loop,1/5/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.494454308,7259.93223,1.12116772,ICC
+764,Phase 1,transition loops (Phase 1),1/5/18,100% conventional,bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.420017558,12726.4032,1.02538182,ICC
+784,Phase 1,transition loops (Phase 1),1/5/18,100% conventional,bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.466103316,19449.2702,1.03385075,ICC
+901,Phase 2,advanced feedwater,1/5/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.357789077,185513.56,1.11629412,ICC
+247,Phase 2,transition loops (Phase 2),1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.076663948,65948.5747,1.02219364,TCC
+265,Phase 2,transition loops (Phase 2),1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.06702929,77563.0871,1.01748532,TCC
+389,Phase 2,advanced blend loops,1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.011093699,243084.542,1.0169327,TCC
+409,Phase 2,advanced blend loops,1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.016460884,296298.774,1.00835057,TCC
+637,Phase 2,advanced blend loops,1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.011093699,2696.70663,1.09954273,ICC
+690,Phase 2,advanced blend loops,1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.016460884,4877.33985,1.06753247,ICC
+693,Phase 2,transition loops (Phase 2),1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.076663948,5055.87809,1.00080129,ICC
+698,Phase 2,transition loops (Phase 2),1/6/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.06702929,5198.99862,1.06344095,ICC
+238,Phase 2,transition loops (Phase 2),1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.104903037,58249.1981,1.25805987,TCC
+258,Phase 2,transition loops (Phase 2),1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.049389527,74419.9607,1.03138887,TCC
+355,Phase 2,advanced blend loops,1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.007999768,172845.531,1.0179666,TCC
+380,Phase 2,advanced blend loops,1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.011988795,227042.823,1.05022322,TCC
+492,NA,RO permeate,8/1/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.247225361,43.7864197,1.12458476,ICC
+493,NA,RO permeate,11/7/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.615697477,64.583098,1.35096247,ICC
+494,NA,RO permeate,12/14/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.714069819,69.8006988,1.2131497,ICC
+496,NA,RO permeate,10/10/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.627181487,89.318747,1.15307513,ICC
+497,NA,RO permeate,10/10/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.935399073,93.7432574,1.96103348,ICC
+500,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_18,DWDS_F,NA,0.223308579,118.352939,1.18362468,ICC
+501,NA,RO permeate,11/14/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.6854658,119.663342,1.08703375,ICC
+502,NA,RO permeate,9/21/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.413193793,142.579351,1.12744867,ICC
+503,NA,RO permeate,11/14/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.629416739,152.972293,1.07990936,ICC
+504,NA,RO permeate,12/14/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.610425764,163.382171,1.10255908,ICC
+505,NA,RO permeate,9/21/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.366123239,168.229726,1.25573249,ICC
+570,Phase 2,advanced blend loops,1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.007999768,1382.72412,1.14808907,ICC
+639,Phase 2,advanced blend loops,1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.011988795,2721.96987,1.0473054,ICC
+514,NA,RO permeate,9/14/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.329307053,322.78772,1.0715825,ICC
+515,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_19,DWDS_F,NA,0.273212545,323.35288,1.16688904,ICC
+519,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_6,DWDS_F,NA,1.087380374,380.255412,1.26695759,ICC
+520,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_20,DWDS_F,NA,0.306403182,410.529239,1.27577843,ICC
+521,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_22,DWDS_F,NA,0.18046573,490.668207,1.24457552,ICC
+669,Phase 2,transition loops (Phase 2),1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.049389527,3675.56669,1.01929294,ICC
+712,Phase 2,transition loops (Phase 2),1/7/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.104903037,6110.51779,1.07393648,ICC
+74,Phase 2,conventional feedwater,1/8/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.424254346,5361.08054,1.52595196,TCC
+125,Phase 2,conventional control loop,1/8/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.377010592,14949.6208,1.07316263,TCC
+220,Phase 2,transition loops (Phase 2),1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.103860803,49603.9372,1.1344815,TCC
+235,Phase 2,transition loops (Phase 2),1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.067938756,56063.4892,1.06520544,TCC
+529,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.027213952,614.476598,1.2319285,ICC
+289,Phase 2,advanced blend loops,1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.023720825,103745.454,1.04043676,TCC
+300,Phase 2,advanced blend loops,1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.008772945,116666.732,1.01548305,TCC
+475,Phase 2,advanced feedwater,1/8/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.982621275,2047544.92,1.0567129,TCC
+554,Phase 2,advanced blend loops,1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.008772945,1023.5108,1.32276344,ICC
+621,Phase 2,conventional feedwater,1/8/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.424254346,2274.46172,1.17821249,ICC
+536,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_21,DWDS_F,NA,0.159296562,737.852224,1.02788492,ICC
+537,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_5,DWDS_F,NA,0.353585283,772.935695,1.5713757,ICC
+626,Phase 2,advanced blend loops,1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.023720825,2460.9278,1.16605835,ICC
+674,Phase 2,transition loops (Phase 2),1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.067938756,3808.88374,1.04600156,ICC
+541,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_1,DWDS_F,NA,0.030989776,862.882012,1.18545664,ICC
+695,Phase 2,transition loops (Phase 2),1/8/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.103860803,5151.90474,1.1307871,ICC
+705,Phase 2,conventional control loop,1/8/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.377010592,5636.16539,1.13219181,ICC
+545,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_23,DWDS_F,NA,0.142866241,904.647251,1.16732223,ICC
+959,Phase 2,advanced feedwater,1/8/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.982621275,2011961.2,1.13362422,ICC
+381,Phase 2,transition loops (Phase 2),1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.018293793,228306.198,1.03616075,TCC
+548,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_3,DWDS_F,NA,0.241602033,915.757379,1.0678242,ICC
+388,Phase 2,advanced blend loops,1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.016237612,240206.07,1.03494594,TCC
+550,NA,"full-scale
+distribution system
+",3/22/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.464752496,965.152448,1.22758174,ICC
+551,NA,"full-scale
+distribution system
+",4/19/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.394750487,975.749966,1.32175849,ICC
+553,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_6,DWDS_F,NA,0.088892014,1022.74018,1.30016051,ICC
+421,Phase 2,transition loops (Phase 2),1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.015954434,361277.126,1.04159065,TCC
+555,NA,"full-scale
+distribution system
+",3/1/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.651943756,1051.10492,1.09016841,ICC
+465,Phase 2,advanced blend loops,1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.003463486,997913.408,1.03966097,TCC
+557,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_3,DWDS_F,NA,0.211419864,1055.8457,1.17852079,ICC
+558,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.177776458,1067.13649,1.12170589,ICC
+559,NA,RO permeate,9/26/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.568669094,1080.54859,1.03011575,ICC
+662,Phase 2,advanced blend loops,1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.003463486,3456.25946,1.04786764,ICC
+561,NA,RO permeate,9/14/17,not applicable,bulkwater_grab,RO_2stage,AWTP_2,NA,0.595812378,1100.81689,1.09281087,ICC
+563,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.003946477,1171.37206,1.18142654,ICC
+675,Phase 2,advanced blend loops,1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.016237612,3900.37298,1.06222205,ICC
+566,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_2,DWDS_F,NA,0.196184096,1273.26552,1.12051761,ICC
+683,Phase 2,transition loops (Phase 2),1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.018293793,4176.58629,1.04784323,ICC
+568,NA,"full-scale
+distribution system
+",3/28/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.019450603,1349.56107,1.11372509,ICC
+708,Phase 2,transition loops (Phase 2),1/9/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.015954434,5763.97213,1.13297223,ICC
+351,Phase 2,transition loops (Phase 2),1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.016153747,167943.787,1.04497094,TCC
+366,Phase 2,transition loops (Phase 2),1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.012929459,190710.385,1.10626583,TCC
+396,Phase 2,advanced blend loops,1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.010618592,258000.747,1.18117533,TCC
+447,Phase 2,advanced blend loops,1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.001698334,643438.604,1.0272374,TCC
+576,NA,"full-scale
+distribution system
+",2/7/18,not applicable,bulkwater_grab,site_2,DWDS_F,NA,0.401851672,1473.93325,1.19944209,ICC
+560,Phase 2,advanced blend loops,1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.001698334,1092.77343,1.12536672,ICC
+627,Phase 2,transition loops (Phase 2),1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.012929459,2465.78217,1.19890838,ICC
+580,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_12,DWDS_F,NA,0.22390964,1520.7988,2.07040317,ICC
+581,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_16,DWDS_F,NA,0.006026714,1524.95,1.11614002,ICC
+638,Phase 2,transition loops (Phase 2),1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.016153747,2712.9214,1.17926239,ICC
+583,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_8,DWDS_F,NA,0.712804322,1553.84373,1.19093204,ICC
+640,Phase 2,advanced blend loops,1/10/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.010618592,2739.60463,1.18617767,ICC
+299,Phase 2,transition loops (Phase 2),1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.019146872,116307.809,1.1505636,TCC
+404,Phase 2,transition loops (Phase 2),1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.013217975,279140.155,1.04962803,TCC
+423,Phase 2,advanced blend loops,1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.004254772,391940.004,1.02761264,TCC
+588,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_1,DWDS_F,NA,0.195402521,1628.84707,1.10438351,ICC
+437,Phase 2,advanced blend loops,1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.001133697,512257.856,1.04149467,TCC
+527,Phase 2,advanced blend loops,1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Between_Batch,0.001133697,580.74545,1.15145381,ICC
+591,Phase 2,advanced blend loops,1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Between_Batch,0.004254772,1667.61524,1.12139141,ICC
+616,Phase 2,transition loops (Phase 2),1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Between_Batch,0.019146872,2226.93069,1.10758688,ICC
+670,Phase 2,transition loops (Phase 2),1/11/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Between_Batch,0.013217975,3689.66761,1.04700594,ICC
+594,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_9,DWDS_F,NA,0.065944281,1721.4856,1.14025872,ICC
+61,Phase 2,conventional feedwater,1/12/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.152794881,3401.28408,1.07345818,TCC
+170,Phase 2,conventional control loop,1/12/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.403447808,26545.4465,1.02973355,TCC
+321,Phase 2,transition loops (Phase 2),1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.025977584,135633.65,1.09026468,TCC
+372,Phase 2,advanced blend loops,1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.009194662,211387.549,1.04718498,TCC
+391,Phase 2,transition loops (Phase 2),1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.02754138,249627.936,1.17414634,TCC
+419,Phase 2,advanced feedwater,1/12/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.082862174,343365.459,1.08638867,TCC
+420,Phase 2,advanced blend loops,1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.001959721,356691.272,1.06394637,TCC
+526,Phase 2,conventional feedwater,1/12/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.152794881,519.698797,1.40464086,ICC
+535,Phase 2,advanced blend loops,1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.001959721,699.015432,1.38562523,ICC
+600,Phase 2,advanced blend loops,1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.009194662,1943.63704,1.08437699,ICC
+606,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_12,DWDS_F,NA,0.88122163,2074.21097,1.03976109,ICC
+666,Phase 2,transition loops (Phase 2),1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.025977584,3523.43452,1.13169692,ICC
+609,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_11,DWDS_F,NA,0.603142095,2139.40418,1.02321513,ICC
+722,Phase 2,transition loops (Phase 2),1/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.02754138,6875.09794,1.36363299,ICC
+756,Phase 2,conventional control loop,1/12/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.403447808,10709.7022,1.06962613,ICC
+801,Phase 2,advanced feedwater,1/12/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.082862174,28452.0083,1.07461411,ICC
+614,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.792627535,2171.19789,1.13414797,ICC
+95,Phase 2,conventional feedwater,1/15/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.704243797,8102.96094,1.03129534,TCC
+130,Phase 2,conventional control loop,1/15/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.449149158,16736.9002,1.00919911,TCC
+617,NA,RO permeate,9/26/17,not applicable,bulkwater_grab,RO_3stage,AWTP_2,NA,0.836765774,2243.92707,1.01958845,ICC
+232,Phase 2,transition loops (Phase 2),1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.030780057,55720.571,1.05894202,TCC
+246,Phase 2,transition loops (Phase 2),1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.03698348,65939.6597,1.03915873,TCC
+259,Phase 2,advanced blend loops,1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.020823315,74432.4236,1.02537291,TCC
+282,Phase 2,advanced blend loops,1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.006662575,96037.259,1.0357167,TCC
+623,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_11,DWDS_F,NA,0.258977339,2326.73918,1.039756,ICC
+439,Phase 2,advanced feedwater,1/15/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.951998927,529235.737,1.06201309,TCC
+532,Phase 2,advanced blend loops,1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.006662575,639.855409,1.4743188,ICC
+582,Phase 2,advanced blend loops,1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.020823315,1549.92978,1.05601069,ICC
+593,Phase 2,transition loops (Phase 2),1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.030780057,1715.08237,1.1759236,ICC
+625,Phase 2,transition loops (Phase 2),1/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.03698348,2438.6781,1.08190677,ICC
+631,NA,"full-scale
+distribution system
+",4/19/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.924501245,2540.94492,1.27050193,ICC
+706,Phase 2,conventional feedwater,1/15/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.704243797,5706.45998,1.08460307,ICC
+731,Phase 2,conventional control loop,1/15/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.449149158,7517.36464,1.02809483,ICC
+936,Phase 2,advanced feedwater,1/15/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.951998927,503831.854,1.04752892,ICC
+140,Phase 2,conventional control loop,1/18/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.390449967,18105.6606,1.03259753,TCC
+331,Phase 2,advanced blend loops,1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.004317123,143696.586,1.04591038,TCC
+364,Phase 2,transition loops (Phase 2),1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.007782786,185334.634,1.14895924,TCC
+367,Phase 2,transition loops (Phase 2),1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.009169656,191540.248,1.04029845,TCC
+377,Phase 2,advanced blend loops,1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.006466065,217764.415,1.01547442,TCC
+530,Phase 2,advanced blend loops,1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.004317123,620.355798,1.17233423,ICC
+571,Phase 2,advanced blend loops,1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.006466065,1408.07878,1.15226422,ICC
+574,Phase 2,transition loops (Phase 2),1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.007782786,1442.41974,1.06978882,ICC
+595,Phase 2,transition loops (Phase 2),1/18/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.009169656,1756.35813,1.10100807,ICC
+727,Phase 2,conventional control loop,1/18/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.390449967,7069.35458,1.07323034,ICC
+649,NA,"full-scale
+distribution system
+",4/26/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.64686225,3026.38974,1.2502573,ICC
+66,Phase 2,conventional feedwater,1/29/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.477361235,4200.7194,1.00317958,TCC
+98,Phase 2,conventional control loop,1/29/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.354832375,8483.92222,1.05297591,TCC
+110,Phase 2,transition loops (Phase 2),1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.140344958,11515.3769,1.02833712,TCC
+174,Phase 2,advanced blend loops,1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.069049047,27743.573,1.03033903,TCC
+656,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_18,DWDS_F,NA,0.610818395,3302.21334,1.10974147,ICC
+197,Phase 2,transition loops (Phase 2),1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.059966772,35373.5678,1.01428248,TCC
+200,Phase 2,advanced blend loops,1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.033341868,36064.6903,1.01675269,TCC
+406,Phase 2,advanced feedwater,1/29/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.743601859,283673.036,1.07164221,TCC
+564,Phase 2,advanced blend loops,1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.033341868,1202.46414,1.20737505,ICC
+587,Phase 2,transition loops (Phase 2),1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.140344958,1616.12509,1.47820054,ICC
+599,Phase 2,advanced blend loops,1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.069049047,1915.66727,1.2019308,ICC
+602,Phase 2,conventional feedwater,1/29/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.477361235,2005.2606,1.07657678,ICC
+665,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_14,DWDS_F,NA,0.016119934,3487.99811,1.0449782,ICC
+608,Phase 2,transition loops (Phase 2),1/29/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.059966772,2121.23868,1.18854312,ICC
+648,Phase 2,conventional control loop,1/29/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.354832375,3010.37027,1.1504633,ICC
+911,Phase 2,advanced feedwater,1/29/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.743601859,210939.797,1.06186664,ICC
+53,Phase 2,conventional feedwater,1/31/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.537085482,2683.81032,1.12760549,TCC
+105,Phase 2,conventional control loop,1/31/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.353346913,10757.4196,1.0614039,TCC
+201,Phase 2,transition loops (Phase 2),1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.100806993,37120.5056,1.02105557,TCC
+219,Phase 2,advanced blend loops,1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.053284639,49036.4865,1.02928428,TCC
+230,Phase 2,advanced blend loops,1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.044918181,53416.715,1.02980228,TCC
+237,Phase 2,transition loops (Phase 2),1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.053836362,58022.2834,1.02273893,TCC
+360,Phase 2,advanced feedwater,1/31/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.760568317,182384.313,1.04648298,TCC
+573,Phase 2,conventional feedwater,1/31/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.537085482,1441.43556,1.14031921,ICC
+624,Phase 2,advanced blend loops,1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.044918181,2399.38166,1.02805107,ICC
+680,NA,"full-scale
+distribution system
+",3/22/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.71411454,4097.19329,1.09099488,ICC
+634,Phase 2,advanced blend loops,1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.053284639,2612.89147,1.05891482,ICC
+651,Phase 2,transition loops (Phase 2),1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.053836362,3123.70866,1.15508795,ICC
+671,Phase 2,transition loops (Phase 2),1/31/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.100806993,3742.00655,1.19341024,ICC
+685,NA,"full-scale
+distribution system
+",2/14/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.054069967,4394.8898,1.65352208,ICC
+673,Phase 2,conventional control loop,1/31/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.353346913,3801.10101,1.11765735,ICC
+880,Phase 2,advanced feedwater,1/31/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.760568317,138715.73,1.07964867,ICC
+108,Phase 2,conventional feedwater,2/4/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.348967449,11421.2402,1.02695088,TCC
+114,Phase 2,conventional control loop,2/4/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.468631181,12397.1309,1.03999339,TCC
+146,Phase 2,advanced blend loops,2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.234548734,19448.9609,1.01078347,TCC
+691,NA,"full-scale
+distribution system
+",2/16/18,not applicable,bulkwater_grab,site_10,DWDS_F,NA,0.075404221,4950.92505,1.20577439,ICC
+148,Phase 2,advanced blend loops,2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.342931242,20277.3028,1.04228419,TCC
+199,Phase 2,transition loops (Phase 2),2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.21202917,35881.5017,1.09673927,TCC
+694,NA,"full-scale
+distribution system
+",4/19/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.589315902,5143.02841,1.0682052,ICC
+264,Phase 2,transition loops (Phase 2),2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.313303708,77011.9067,1.59171306,TCC
+696,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_8,DWDS_F,NA,0.274712365,5152.17176,1.04980476,ICC
+432,Phase 2,advanced feedwater,2/4/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.891839183,485197.769,1.04258614,TCC
+677,Phase 2,conventional feedwater,2/4/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.348967449,3985.64106,1.03403484,ICC
+687,Phase 2,advanced blend loops,2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.234548734,4561.72916,1.06847521,ICC
+702,NA,"full-scale
+distribution system
+",2/14/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.341117661,5575.81991,1.0524561,ICC
+709,Phase 2,conventional control loop,2/4/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.468631181,5809.6821,1.06410777,ICC
+725,Phase 2,advanced blend loops,2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.342931242,6953.72063,1.48066102,ICC
+733,Phase 2,transition loops (Phase 2),2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.21202917,7607.92501,1.21580269,ICC
+796,Phase 2,transition loops (Phase 2),2/4/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.313303708,24128.1159,1.0798486,ICC
+934,Phase 2,advanced feedwater,2/4/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.891839183,432718.382,1.01675305,ICC
+126,Phase 2,transition loops (Phase 2),2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.402568831,15741.2587,1.04754809,TCC
+152,Phase 2,conventional control loop,2/15/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.14949865,21295.8024,1.02744675,TCC
+209,Phase 2,advanced blend loops,2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.145425964,43599.4941,1.01340184,TCC
+212,Phase 2,advanced blend loops,2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.131625965,45137.0376,1.01337233,TCC
+240,Phase 2,transition loops (Phase 2),2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.1253446,59596.7013,1.01653999,TCC
+254,Phase 2,conventional feedwater,2/15/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.057610398,71641.2369,1.0453903,TCC
+273,Phase 2,advanced feedwater,2/15/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,NA,NA,1.03358073,TCC
+653,Phase 2,conventional control loop,2/15/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.14949865,3183.69372,1.39922973,ICC
+681,Phase 2,conventional feedwater,2/15/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.057610398,4127.28016,1.13722783,ICC
+710,Phase 2,advanced blend loops,2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.131625965,5941.20613,1.09416531,ICC
+718,Phase 2,transition loops (Phase 2),2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.402568831,6336.94012,1.14499265,ICC
+719,Phase 2,advanced blend loops,2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.145425964,6340.49848,1.04182562,ICC
+730,Phase 2,transition loops (Phase 2),2/15/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.1253446,7470.12469,1.03516766,ICC
+960,Phase 2,advanced feedwater,2/15/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,NA,NA,1.01456269,ICC
+46,Phase 2,conventional feedwater,2/19/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.13000471,2341.19783,1.47012954,TCC
+73,Phase 2,transition loops (Phase 2),2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.615411867,5200.25734,1.13054859,TCC
+92,Phase 2,transition loops (Phase 2),2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.260392744,7142.03826,1.13784657,TCC
+116,Phase 2,advanced blend loops,2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.20314311,12964.0914,1.19758175,TCC
+127,Phase 2,conventional control loop,2/19/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.049865097,15996.4899,1.05283734,TCC
+161,Phase 2,advanced blend loops,2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.11140281,23065.5862,1.05308585,TCC
+476,Phase 2,advanced feedwater,2/19/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.891600623,2664952.69,1.02457264,TCC
+735,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.231859188,7889.97744,1.03119546,ICC
+512,Phase 2,conventional feedwater,2/19/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.13000471,304.366745,1.53208302,ICC
+538,Phase 2,conventional control loop,2/19/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.049865097,797.666527,1.31938262,ICC
+597,Phase 2,transition loops (Phase 2),2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.260392744,1859.73494,1.14239245,ICC
+744,NA,"full-scale
+distribution system
+",3/28/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.092802685,8816.46166,1.06457923,ICC
+633,Phase 2,advanced blend loops,2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.11140281,2569.57111,1.30804699,ICC
+635,Phase 2,advanced blend loops,2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.20314311,2633.56584,1.0314022,ICC
+654,Phase 2,transition loops (Phase 2),2/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.615411867,3200.30008,1.06290336,ICC
+961,Phase 2,advanced feedwater,2/19/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.891600623,2376073.48,1.01423551,ICC
+120,Phase 2,conventional control loop,2/26/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.153025525,14029.2247,1.18502666,TCC
+754,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_20,DWDS_F,NA,0.676643212,9821.74215,1.01153258,ICC
+279,Phase 2,transition loops (Phase 2),2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.024632434,92240.3576,1.11713928,TCC
+301,Phase 2,advanced blend loops,2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.018521182,118434.343,1.02690165,TCC
+307,Phase 2,advanced blend loops,2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.050639762,124110.012,1.01403929,TCC
+311,Phase 2,transition loops (Phase 2),2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.015909176,126754.058,1.02189434,TCC
+603,Phase 2,transition loops (Phase 2),2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.015909176,2016.55261,1.25974544,ICC
+610,Phase 2,conventional control loop,2/26/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.153025525,2146.82947,1.36383264,ICC
+615,Phase 2,advanced blend loops,2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.018521182,2193.544,1,ICC
+620,Phase 2,transition loops (Phase 2),2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.024632434,2272.10454,1.10413091,ICC
+769,NA,"full-scale
+distribution system
+",3/28/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.162789744,13733.6876,1.04323796,ICC
+716,Phase 2,advanced blend loops,2/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.050639762,6284.90145,3.75841005,ICC
+772,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_16,DWDS_F,NA,0.834209216,14364.2112,1.01691483,ICC
+113,Phase 2,conventional feedwater,3/1/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.276819173,12147.8882,1.08073545,TCC
+775,NA,"full-scale
+distribution system
+",3/1/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.755064401,15342.0896,1.01983493,ICC
+778,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_16,DWDS_F,NA,0.468656174,16469.3871,1.02622961,ICC
+448,Phase 2,advanced feedwater,3/1/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.896445903,683431.464,1.00595343,TCC
+658,Phase 2,conventional feedwater,3/1/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.276819173,3362.76836,1.25546698,ICC
+941,Phase 2,advanced feedwater,3/1/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.896445903,612659.336,1.01170369,ICC
+19,Phase 2,conventional feedwater,3/5/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,NA,NA,1.47200713,TCC
+82,Phase 2,conventional control loop,3/5/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.277582693,5980.58507,1.15607547,TCC
+134,Phase 2,transition loops (Phase 2),3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.276634664,17120.1811,1.18812653,TCC
+789,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_19,DWDS_F,NA,0.652315372,20768.2116,1.01116122,ICC
+145,Phase 2,transition loops (Phase 2),3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.254793325,19066.8603,1.45531692,TCC
+791,NA,"full-scale
+distribution system
+",4/26/18,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.767435335,21399.4562,1.05418279,ICC
+792,NA,"full-scale
+distribution system
+",3/1/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.880199437,21424.4761,1.02838785,ICC
+156,Phase 2,advanced blend loops,3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.261483657,22024.3272,1.21776117,TCC
+168,Phase 2,advanced blend loops,3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.260012667,25937.0795,1.19107729,TCC
+451,Phase 2,advanced feedwater,3/5/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.889757019,734746.67,1.02889093,TCC
+549,Phase 2,conventional feedwater,3/5/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,NA,NA,1.26376504,ICC
+590,Phase 2,conventional control loop,3/5/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.277582693,1660.10691,1.11413129,ICC
+688,Phase 2,transition loops (Phase 2),3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.276634664,4736.03555,1.1070424,ICC
+689,Phase 2,transition loops (Phase 2),3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.254793325,4858.10874,1.09386568,ICC
+805,NA,"full-scale
+distribution system
+",2/9/18,not applicable,bulkwater_grab,site_7,DWDS_F,NA,0.332592922,31952.1376,1.02142502,ICC
+707,Phase 2,advanced blend loops,3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.261483657,5759.00161,1.09380315,ICC
+809,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_14,DWDS_F,NA,0.762600697,36057.5019,1.0391668,ICC
+811,NA,"full-scale
+distribution system
+",4/26/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.773039224,39766.0848,1.05676651,ICC
+812,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_17,DWDS_F,NA,0.800436956,39856.0943,1.03389311,ICC
+813,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_13,DWDS_F,NA,0.489422521,40336.3015,1.02448497,ICC
+721,Phase 2,advanced blend loops,3/5/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.260012667,6743.96921,1.06411255,ICC
+944,Phase 2,advanced feedwater,3/5/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.889757019,653746.007,1.0330949,ICC
+819,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.862781359,47473.5009,1.02587166,ICC
+67,Phase 2,conventional feedwater,3/12/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.459581506,4467.59755,1.11000626,TCC
+823,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_24,DWDS_F,NA,0.756979168,52473.9825,1.02428404,ICC
+71,Phase 2,conventional control loop,3/12/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.572024592,4963.72803,1.2014337,TCC
+825,NA,"full-scale
+distribution system
+",3/27/18,not applicable,bulkwater_grab,site_7,DWDS_F,NA,0.710498278,53769.0145,1.03011903,ICC
+138,Phase 2,advanced blend loops,3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.539250694,17491.881,1.13280037,TCC
+829,NA,"full-scale
+distribution system
+",3/22/18,not applicable,bulkwater_grab,site_15,DWDS_F,NA,0.807469213,59306.899,1.01570283,ICC
+157,Phase 2,transition loops (Phase 2),3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.419041658,22228.4321,1.18563968,TCC
+834,NA,"full-scale
+distribution system
+",8/22/17,not applicable,bulkwater_grab,site_7,DWDS_F,NA,0.460571323,64474.9378,1.06144713,ICC
+172,Phase 2,advanced blend loops,3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.394487221,27193.7336,1.04986019,TCC
+195,Phase 2,transition loops (Phase 2),3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.574057437,34458.2617,1.05800672,TCC
+445,Phase 2,advanced feedwater,3/12/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.828758258,611179.287,1.00335435,TCC
+605,Phase 2,conventional feedwater,3/12/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.459581506,2053.22521,1.31587836,ICC
+642,Phase 2,conventional control loop,3/12/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.572024592,2839.3745,1.26404124,ICC
+750,Phase 2,transition loops (Phase 2),3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.419041658,9314.63905,1.08012738,ICC
+752,Phase 2,advanced blend loops,3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.539250694,9432.50896,1.10233051,ICC
+757,Phase 2,advanced blend loops,3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.394487221,10727.5804,1.0657613,ICC
+856,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_23,DWDS_F,NA,0.828059689,104997.027,1.03362733,ICC
+786,Phase 2,transition loops (Phase 2),3/12/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.574057437,19781.0214,1.02460648,ICC
+860,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_5,DWDS_F,NA,0.806537653,109414.26,1.0082768,ICC
+862,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_21,DWDS_F,NA,0.83013825,110996.986,1.01765877,ICC
+937,Phase 2,advanced feedwater,3/12/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.828758258,506519.881,1.05379972,ICC
+1,Phase 2,transition loops (Phase 2),3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,NA,NA,2.22638106,TCC
+8,Phase 2,transition loops (Phase 2),3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,NA,NA,1.49210625,TCC
+149,Phase 2,conventional control loop,3/19/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.17431593,20299.6728,1.95176748,TCC
+872,NA,"full-scale
+distribution system
+",8/23/17,not applicable,bulkwater_grab,site_22,DWDS_F,NA,0.917434293,133449.75,1.00708777,ICC
+162,Phase 2,conventional feedwater,3/19/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.08160935,23466.1745,1.49334628,TCC
+306,Phase 2,advanced blend loops,3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.137872286,124042.922,1.64895943,TCC
+309,Phase 2,advanced blend loops,3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.066403466,125807.83,1.77310927,TCC
+469,Phase 2,advanced feedwater,3/19/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.719302416,1115593.31,1.0524819,TCC
+511,Phase 2,transition loops (Phase 2),3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,NA,NA,1.43234572,ICC
+598,Phase 2,conventional feedwater,3/19/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.08160935,1915.05925,1.54441254,ICC
+667,Phase 2,conventional control loop,3/19/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.17431593,3538.55635,2.37459703,ICC
+726,Phase 2,transition loops (Phase 2),3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,NA,NA,1.03579131,ICC
+740,Phase 2,advanced blend loops,3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.066403466,8354.07593,1.09311054,ICC
+781,Phase 2,advanced blend loops,3/19/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.137872286,17102.0812,1.03136469,ICC
+953,Phase 2,advanced feedwater,3/19/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.719302416,802448.963,1.02225322,ICC
+34,Phase 2,conventional feedwater,3/22/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.393056314,1268.89781,1.16958014,TCC
+468,Phase 2,advanced feedwater,3/22/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.864682334,1113831.38,1.09206925,TCC
+523,Phase 2,conventional feedwater,3/22/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,Batch_Start,0.393056314,498.748296,1.37029686,ICC
+957,Phase 2,advanced feedwater,3/22/18,100% advanced,bulkwater_grab,advanced_feed,Pipe_Loop,Batch_Start,0.864682334,963110.317,1.05358854,ICC
+115,Phase 2,conventional control loop,3/26/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.267516779,12943.6048,1.07787906,TCC
+188,Phase 2,transition loops (Phase 2),3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.38249064,32196.4109,1.07158395,TCC
+215,Phase 2,advanced blend loops,3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.455617326,46097.0696,1.14929529,TCC
+252,Phase 2,transition loops (Phase 2),3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.769265272,69585.9129,1.03468551,TCC
+280,Phase 2,advanced blend loops,3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.673725983,94829.5531,1.04554043,TCC
+663,Phase 2,conventional control loop,3/26/18,100% conventional,bulkwater_grab,Loop_5,Pipe_Loop,Batch_End,0.267516779,3462.63146,1.50766207,ICC
+763,Phase 2,transition loops (Phase 2),3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_2,Pipe_Loop,Batch_End,0.38249064,12314.8258,1.0689756,ICC
+790,Phase 2,advanced blend loops,3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_4,Pipe_Loop,Batch_End,0.455617326,21002.6236,1.09760235,ICC
+824,Phase 2,transition loops (Phase 2),3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_1,Pipe_Loop,Batch_End,0.769265272,53530.0262,1.05451346,ICC
+833,Phase 2,advanced blend loops,3/26/18,"90% advanced
+10% conventional",bulkwater_grab,Loop_3,Pipe_Loop,Batch_End,0.673725983,63889.1339,1.09114964,ICC
+60,Phase 2,conventional feedwater,4/26/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,NA,1.03189247,3314.02306,1.32975897,TCC
+661,Phase 2,conventional feedwater,4/26/18,100% conventional,bulkwater_grab,conventional_feed,DWDS_F,NA,1.03189247,3419.71544,1.65069812,ICC
